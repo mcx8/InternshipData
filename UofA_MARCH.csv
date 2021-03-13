@@ -1,0 +1,458 @@
+year_observed,month_observed,day_observed,quality_grade,latitude,longitude,scientific_name,common_name,taxon_order_name,taxon_family_name,taxon_genus_name,taxon_species_name
+2016,9,26,needs_id,32.23182819,-110.9509565,Anthophora californica,California Digger Bee,Hymenoptera,Apidae,Anthophora,Anthophora californica
+2017,4,12,research,32.2318412,-110.9539251,Anthophora californica,California Digger Bee,Hymenoptera,Apidae,Anthophora,Anthophora californica
+2017,4,12,needs_id,32.23197971,-110.9538477,Anthophora californica,California Digger Bee,Hymenoptera,Apidae,Anthophora,Anthophora californica
+2017,4,12,needs_id,32.23192102,-110.9538203,Anthophora californica,California Digger Bee,Hymenoptera,Apidae,Anthophora,Anthophora californica
+2018,4,12,needs_id,32.23162373,-110.9492022,Anthophora californica,California Digger Bee,Hymenoptera,Apidae,Anthophora,Anthophora californica
+2019,9,10,needs_id,32.23227222,-110.9504694,Anthophora californica,California Digger Bee,Hymenoptera,Apidae,Anthophora,Anthophora californica
+2019,9,15,needs_id,32.23225503,-110.9512166,Anthophora californica,California Digger Bee,Hymenoptera,Apidae,Anthophora,Anthophora californica
+2020,4,16,research,32.22490269,-110.958882,Anthophora californica,California Digger Bee,Hymenoptera,Apidae,Anthophora,Anthophora californica
+2020,10,10,needs_id,32.23325,-110.9494783,Anthophora californica,California Digger Bee,Hymenoptera,Apidae,Anthophora,Anthophora californica
+2020,9,19,needs_id,32.2332,-110.95,Anthophora californica,California Digger Bee,Hymenoptera,Apidae,Anthophora,Anthophora californica
+2020,9,5,research,32.23389873,-110.9557792,Anthophora californica,California Digger Bee,Hymenoptera,Apidae,Anthophora,Anthophora californica
+2020,9,12,needs_id,32.2294,-110.9534,Anthophora californica,California Digger Bee,Hymenoptera,Apidae,Anthophora,Anthophora californica
+2015,10,29,research,32.225415,-110.962394,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2015,10,29,research,32.225487,-110.96241,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2015,10,29,research,32.225462,-110.962391,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2016,3,14,research,32.2284005,-110.9630977,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2016,3,14,research,32.22891608,-110.9627677,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2016,3,15,research,32.2287898,-110.9625544,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2016,3,15,research,32.22890686,-110.9627561,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2016,3,15,research,32.22897308,-110.9627833,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2016,3,15,research,32.22873365,-110.9632744,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2016,3,15,research,32.2288138,-110.9625726,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2016,3,15,research,32.22893209,-110.9628108,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2016,3,16,research,32.22890229,-110.9638023,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2016,4,7,research,32.22548239,-110.9623301,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2016,4,7,research,32.22360595,-110.9586089,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2016,4,7,research,32.22559873,-110.9623371,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2016,4,11,research,32.22532745,-110.9623358,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2016,4,12,research,32.22558088,-110.9623954,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2016,4,13,research,32.22567136,-110.9615974,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2016,4,12,research,32.22505,-110.961445,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2016,7,21,research,32.2407163,-110.9455221,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2016,11,30,research,32.23178118,-110.95387,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2016,11,30,research,32.23182672,-110.95382,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2016,11,30,research,32.23184331,-110.9537899,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2016,11,30,research,32.23168043,-110.9538083,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2017,3,10,research,32.22393836,-110.9523073,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2017,3,10,research,32.22564026,-110.9624022,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2017,3,10,research,32.2260806,-110.9633514,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2017,3,22,research,32.22622159,-110.9585325,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2017,4,10,research,32.22538445,-110.9523987,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2017,4,12,research,32.23197599,-110.9538235,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2017,4,12,research,32.23192453,-110.9539468,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2017,4,12,research,32.23191689,-110.9537145,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2017,4,12,research,32.23190465,-110.9538321,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2017,4,12,research,32.2318386,-110.9537372,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2017,4,12,research,32.23202216,-110.9539679,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2017,4,12,research,32.23109071,-110.9530577,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2017,4,12,research,32.23114535,-110.9530292,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2017,4,12,research,32.23105748,-110.9529093,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2017,4,12,research,32.23159343,-110.9537945,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2017,4,12,research,32.23110611,-110.9530435,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2017,4,12,research,32.23086982,-110.952961,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2017,4,12,research,32.23111038,-110.9530642,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2017,4,12,research,32.23079715,-110.9530951,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2017,4,12,research,32.23154578,-110.9511308,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2017,4,12,research,32.231545,-110.95115,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2017,4,12,research,32.23186932,-110.9511368,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2017,4,12,research,32.23184444,-110.9538801,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2017,4,13,research,32.2310862,-110.9529455,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2017,4,13,research,32.22690333,-110.9517217,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2017,4,13,research,32.23182982,-110.9540552,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2017,4,24,research,32.23108004,-110.9530292,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2017,5,5,research,32.23053882,-110.9540076,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2017,7,4,research,32.23846821,-110.9508904,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2018,3,20,research,32.23647,-110.9543,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2018,4,11,research,32.2318692,-110.9537217,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2018,4,11,research,32.23192992,-110.9539499,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2018,4,11,research,32.23189058,-110.9539823,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2018,4,11,research,32.23185237,-110.9538465,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2018,4,11,research,32.23198322,-110.9538526,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2018,4,11,research,32.23180084,-110.9538288,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2018,4,11,research,32.23180633,-110.9538492,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2018,4,11,research,32.23193692,-110.9538948,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2018,4,11,research,32.23197087,-110.9539627,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2018,4,11,research,32.23181488,-110.9538723,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2018,4,11,research,32.23193667,-110.953925,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2018,4,11,research,32.23184435,-110.9539246,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2018,4,11,research,32.23191576,-110.953901,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2018,4,11,research,32.2317653,-110.9538225,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2018,4,11,research,32.23192933,-110.9539514,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2018,4,11,research,32.23193667,-110.953925,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2018,4,11,research,32.23176647,-110.9538236,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2018,4,11,research,32.23554042,-110.9543349,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2018,4,16,research,32.23218533,-110.9511854,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2018,4,21,research,32.23341991,-110.9566478,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2018,4,23,research,32.23342198,-110.9566272,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2018,4,23,research,32.23337312,-110.95656,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2018,4,23,research,32.23350191,-110.956676,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2018,4,23,research,32.23344451,-110.9566596,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2018,3,12,research,32.23187412,-110.9559132,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2018,4,23,research,32.23350271,-110.9566264,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2018,4,24,research,32.2264751,-110.9616638,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2018,4,30,research,32.23345333,-110.9566333,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2018,5,10,research,32.22648462,-110.9620636,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2018,5,10,research,32.22643663,-110.9619418,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2018,10,12,research,32.23068833,-110.9525667,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2018,10,12,research,32.23065333,-110.9524,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2018,10,24,research,32.23190689,-110.9536362,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2018,11,5,research,32.23233955,-110.9519378,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2018,11,13,research,32.2384381,-110.9540563,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2018,11,28,research,32.22855739,-110.9569452,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2018,11,29,research,32.2307061,-110.953676,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2018,11,30,research,32.22252129,-110.9589458,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2018,11,30,research,32.23345274,-110.9528547,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2018,11,30,research,32.23283719,-110.9524251,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2018,12,1,research,32.230683,-110.9543788,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2018,11,30,research,32.23167833,-110.9570383,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2018,10,12,research,32.23072833,-110.9525383,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2018,12,2,research,32.22915595,-110.9503564,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2018,11,27,research,32.23213808,-110.9581355,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2018,11,30,research,32.23168792,-110.95387,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2018,12,5,research,32.2352667,-110.9576359,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2019,5,31,research,32.2266922,-110.9491043,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2019,6,24,research,32.23635101,-110.9417038,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2019,9,4,research,32.23182833,-110.95385,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2019,9,6,research,32.232248,-110.950923,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2019,9,8,research,32.23533688,-110.9583843,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2019,9,5,research,32.23193333,-110.9523467,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2019,9,9,research,32.23196167,-110.9496,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2019,9,9,research,32.232445,-110.9495383,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2019,9,9,research,32.2329935,-110.9498421,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2019,9,10,research,32.23182167,-110.9582833,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2019,9,10,research,32.23172,-110.9539417,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2019,9,10,research,32.23176667,-110.9539117,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2019,9,10,research,32.23192155,-110.953921,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2019,9,12,research,32.2317411,-110.9494564,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2019,9,5,research,32.23365197,-110.9566555,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2019,9,11,research,32.231802,-110.953889,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2019,9,12,research,32.23333667,-110.9560383,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2019,9,11,research,32.23216845,-110.9507614,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2019,9,11,research,32.23277778,-110.9497222,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2019,9,12,research,32.23323056,-110.9497889,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2019,9,11,research,32.232984,-110.950104,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2019,9,12,research,32.22943216,-110.9501261,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2019,9,12,research,32.22934723,-110.9548645,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2019,9,12,research,32.22922462,-110.9521057,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2019,9,13,research,32.23225278,-110.9488056,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2019,9,13,research,32.2319,-110.9537717,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2019,9,11,research,32.233231,-110.949487,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2019,9,14,research,32.232545,-110.9458083,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2019,9,14,research,32.23194504,-110.9494476,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2019,9,9,research,32.23315,-110.9498444,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2019,9,15,research,32.23327,-110.95022,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2019,9,11,research,32.23185833,-110.949555,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2019,9,13,research,32.23177833,-110.953925,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2019,9,13,research,32.23177778,-110.953925,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2019,9,25,research,32.23297366,-110.949486,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2019,9,25,research,32.23268688,-110.9500331,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2019,9,25,research,32.23274134,-110.949089,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2019,10,31,research,32.23330472,-110.9494889,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2019,10,31,research,32.23206667,-110.95227,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2019,11,6,research,32.23183146,-110.9540014,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2019,11,8,research,32.24362272,-110.9459002,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2019,11,9,research,32.23185516,-110.9539756,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2019,11,5,research,32.23325608,-110.9495105,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2020,3,14,research,32.23199618,-110.9531248,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2020,4,24,research,32.22821454,-110.9532942,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2020,3,6,research,32.232207,-110.948747,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2020,8,26,research,32.23244859,-110.9393731,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2020,8,31,research,32.23822917,-110.9533558,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2020,9,1,research,32.23319255,-110.960471,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2020,9,14,research,32.23171111,-110.9583806,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2020,9,7,research,32.2318851,-110.9501094,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2020,9,12,research,32.22769167,-110.9504694,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2020,9,30,research,32.22864167,-110.9523083,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2020,9,30,research,32.23322833,-110.9494633,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2020,10,3,research,32.231705,-110.9542167,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2020,10,5,research,32.23943333,-110.9513545,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2020,10,10,research,32.232075,-110.9461133,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2020,9,1,research,32.23296511,-110.9522769,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2020,10,10,research,32.23191167,-110.9494083,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2020,10,10,research,32.23149167,-110.9528583,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2020,10,10,research,32.22896167,-110.9512717,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2020,10,10,research,32.230305,-110.9518967,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2020,10,10,research,32.23323,-110.9494867,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2020,10,28,research,32.23346667,-110.95665,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2020,11,5,research,32.23829667,-110.945275,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2020,11,16,research,32.22866583,-110.9466476,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2020,11,21,research,32.24211167,-110.9428117,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2020,11,23,research,32.24322167,-110.9524083,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2020,11,15,research,32.2321,-110.9484,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2020,11,15,research,32.2321,-110.9484,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2020,11,15,research,32.2321,-110.9484,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2020,11,15,research,32.2321,-110.9484,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2020,10,31,research,32.23005597,-110.953382,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2021,2,9,research,32.23199167,-110.953155,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2021,3,7,research,32.23227833,-110.94735,Apis mellifera,Western Honey Bee,Hymenoptera,Apidae,Apis,Apis mellifera
+2018,12,3,research,32.23187992,-110.9537713,Bombus sonorus,Sonoran Bumble Bee,Hymenoptera,Apidae,Bombus,Bombus sonorus
+2020,11,24,research,32.23321847,-110.9495386,Bombus sonorus,Sonoran Bumble Bee,Hymenoptera,Apidae,Bombus,Bombus sonorus
+2015,9,15,research,32.22972104,-110.9525408,Xylocopa californica arizonensis,Arizona Carpenter Bee,Hymenoptera,Apidae,Xylocopa,Xylocopa californica
+2015,10,12,research,32.23315717,-110.9499563,Xylocopa californica arizonensis,Arizona Carpenter Bee,Hymenoptera,Apidae,Xylocopa,Xylocopa californica
+2016,2,27,research,32.23388075,-110.9502394,Xylocopa californica arizonensis,Arizona Carpenter Bee,Hymenoptera,Apidae,Xylocopa,Xylocopa californica
+2016,9,2,research,32.2303317,-110.951921,Xylocopa californica arizonensis,Arizona Carpenter Bee,Hymenoptera,Apidae,Xylocopa,Xylocopa californica
+2017,11,3,research,32.23027504,-110.9520834,Xylocopa californica arizonensis,Arizona Carpenter Bee,Hymenoptera,Apidae,Xylocopa,Xylocopa californica
+2018,5,1,needs_id,32.23167323,-110.9584882,Xylocopa californica,Western Carpenter,Hymenoptera,Apidae,Xylocopa,Xylocopa californica
+2018,5,23,research,32.2308015,-110.953499,Xylocopa californica,Western Carpenter,Hymenoptera,Apidae,Xylocopa,Xylocopa californica
+2019,9,4,research,32.231955,-110.95382,Xylocopa californica,Western Carpenter,Hymenoptera,Apidae,Xylocopa,Xylocopa californica
+2019,9,5,research,32.231895,-110.9494383,Xylocopa californica,Western Carpenter,Hymenoptera,Apidae,Xylocopa,Xylocopa californica
+2019,9,6,research,32.23313634,-110.949603,Xylocopa californica,Western Carpenter,Hymenoptera,Apidae,Xylocopa,Xylocopa californica
+2019,9,10,research,32.23328056,-110.9501333,Xylocopa californica,Western Carpenter,Hymenoptera,Apidae,Xylocopa,Xylocopa californica
+2019,9,4,research,32.2332,-110.9500722,Xylocopa californica,Western Carpenter,Hymenoptera,Apidae,Xylocopa,Xylocopa californica
+2019,9,4,research,32.23273198,-110.9508392,Xylocopa californica arizonensis,Arizona Carpenter Bee,Hymenoptera,Apidae,Xylocopa,Xylocopa californica
+2019,9,11,research,32.23333333,-110.95,Xylocopa californica,Western Carpenter,Hymenoptera,Apidae,Xylocopa,Xylocopa californica
+2019,9,11,research,32.23333333,-110.95,Xylocopa californica,Western Carpenter,Hymenoptera,Apidae,Xylocopa,Xylocopa californica
+2019,9,11,research,32.23277778,-110.9497222,Xylocopa californica,Western Carpenter,Hymenoptera,Apidae,Xylocopa,Xylocopa californica
+2019,9,12,research,32.23315833,-110.95112,Xylocopa californica arizonensis,Arizona Carpenter Bee,Hymenoptera,Apidae,Xylocopa,Xylocopa californica
+2019,9,12,research,32.23313889,-110.9495694,Xylocopa californica,Western Carpenter,Hymenoptera,Apidae,Xylocopa,Xylocopa californica
+2019,9,5,research,32.23191167,-110.95395,Xylocopa californica,Western Carpenter,Hymenoptera,Apidae,Xylocopa,Xylocopa californica
+2019,9,11,research,32.23374444,-110.9524222,Xylocopa californica,Western Carpenter,Hymenoptera,Apidae,Xylocopa,Xylocopa californica
+2019,9,13,research,32.23322222,-110.9495306,Xylocopa californica,Western Carpenter,Hymenoptera,Apidae,Xylocopa,Xylocopa californica
+2019,9,13,research,32.23265768,-110.949601,Xylocopa californica arizonensis,Arizona Carpenter Bee,Hymenoptera,Apidae,Xylocopa,Xylocopa californica
+2019,9,13,research,32.23181667,-110.9537117,Xylocopa californica,Western Carpenter,Hymenoptera,Apidae,Xylocopa,Xylocopa californica
+2019,9,11,research,32.23127541,-110.95388,Xylocopa californica arizonensis,Arizona Carpenter Bee,Hymenoptera,Apidae,Xylocopa,Xylocopa californica
+2019,9,4,research,32.23318833,-110.95022,Xylocopa californica arizonensis,Arizona Carpenter Bee,Hymenoptera,Apidae,Xylocopa,Xylocopa californica
+2019,9,15,research,32.23166524,-110.9522904,Xylocopa californica,Western Carpenter,Hymenoptera,Apidae,Xylocopa,Xylocopa californica
+2020,7,27,research,32.237275,-110.95752,Xylocopa californica arizonensis,Arizona Carpenter Bee,Hymenoptera,Apidae,Xylocopa,Xylocopa californica
+2020,8,13,research,32.22865833,-110.9532694,Xylocopa californica arizonensis,Arizona Carpenter Bee,Hymenoptera,Apidae,Xylocopa,Xylocopa californica
+2020,8,27,research,32.23183333,-110.951155,Xylocopa californica,Western Carpenter,Hymenoptera,Apidae,Xylocopa,Xylocopa californica
+2020,9,6,research,32.23175848,-110.9550863,Xylocopa californica,Western Carpenter,Hymenoptera,Apidae,Xylocopa,Xylocopa californica
+2020,9,7,research,32.22852657,-110.9511544,Xylocopa californica,Western Carpenter,Hymenoptera,Apidae,Xylocopa,Xylocopa californica
+2020,9,8,research,32.23218858,-110.9467113,Xylocopa californica,Western Carpenter,Hymenoptera,Apidae,Xylocopa,Xylocopa californica
+2020,9,21,research,32.2335756,-110.9528414,Xylocopa californica,Western Carpenter,Hymenoptera,Apidae,Xylocopa,Xylocopa californica
+2020,9,21,research,32.2334561,-110.9529677,Xylocopa californica,Western Carpenter,Hymenoptera,Apidae,Xylocopa,Xylocopa californica
+2020,9,25,research,32.22850473,-110.9570904,Xylocopa californica arizonensis,Arizona Carpenter Bee,Hymenoptera,Apidae,Xylocopa,Xylocopa californica
+2020,10,2,research,32.23042,-110.949325,Xylocopa californica,Western Carpenter,Hymenoptera,Apidae,Xylocopa,Xylocopa californica
+2020,10,4,research,32.23139974,-110.9516659,Xylocopa californica,Western Carpenter,Hymenoptera,Apidae,Xylocopa,Xylocopa californica
+2020,10,10,research,32.230625,-110.9521117,Xylocopa californica,Western Carpenter,Hymenoptera,Apidae,Xylocopa,Xylocopa californica
+2020,10,10,research,32.23209667,-110.948425,Xylocopa californica,Western Carpenter,Hymenoptera,Apidae,Xylocopa,Xylocopa californica
+2020,10,10,research,32.23315833,-110.949525,Xylocopa californica,Western Carpenter,Hymenoptera,Apidae,Xylocopa,Xylocopa californica
+2020,10,28,research,32.2291,-110.9526,Xylocopa californica arizonensis,Arizona Carpenter Bee,Hymenoptera,Apidae,Xylocopa,Xylocopa californica
+2020,11,15,research,32.2321,-110.9484,Xylocopa californica arizonensis,Arizona Carpenter Bee,Hymenoptera,Apidae,Xylocopa,Xylocopa californica
+2020,9,4,research,32.2317,-110.9552,Xylocopa californica,Western Carpenter,Hymenoptera,Apidae,Xylocopa,Xylocopa californica
+2019,9,10,research,32.23202406,-110.9538141,Xylocopa californica arizonensis,Arizona Carpenter Bee,Hymenoptera,Apidae,Xylocopa,Xylocopa californica
+2020,12,13,research,32.225622,-110.9552558,Xylocopa californica arizonensis,Arizona Carpenter Bee,Hymenoptera,Apidae,Xylocopa,Xylocopa californica
+2021,3,7,research,32.23227,-110.94735,Xylocopa californica arizonensis,Arizona Carpenter Bee,Hymenoptera,Apidae,Xylocopa,Xylocopa californica
+2015,7,1,research,32.22874482,-110.9518525,Xylocopa sonorina,Valley Carpenter Bee,Hymenoptera,Apidae,Xylocopa,Xylocopa sonorina
+2018,4,21,research,32.23131979,-110.9530877,Xylocopa sonorina,Valley Carpenter Bee,Hymenoptera,Apidae,Xylocopa,Xylocopa sonorina
+2018,9,4,needs_id,32.23094241,-110.9510173,Xylocopa sonorina,Valley Carpenter Bee,Hymenoptera,Apidae,Xylocopa,Xylocopa sonorina
+2018,10,19,research,32.23332977,-110.9494171,Xylocopa sonorina,Valley Carpenter Bee,Hymenoptera,Apidae,Xylocopa,Xylocopa sonorina
+2018,8,23,research,32.23621333,-110.9458783,Xylocopa sonorina,Valley Carpenter Bee,Hymenoptera,Apidae,Xylocopa,Xylocopa sonorina
+2019,9,11,needs_id,32.233596,-110.9499606,Xylocopa sonorina,Valley Carpenter Bee,Hymenoptera,Apidae,Xylocopa,Xylocopa sonorina
+2019,12,12,research,32.23111968,-110.9537382,Xylocopa sonorina,Valley Carpenter Bee,Hymenoptera,Apidae,Xylocopa,Xylocopa sonorina
+2020,3,17,research,32.231614,-110.9561423,Xylocopa sonorina,Valley Carpenter Bee,Hymenoptera,Apidae,Xylocopa,Xylocopa sonorina
+2020,4,16,needs_id,32.22435811,-110.9589614,Xylocopa sonorina,Valley Carpenter Bee,Hymenoptera,Apidae,Xylocopa,Xylocopa sonorina
+2020,3,6,research,32.23306805,-110.9512077,Xylocopa sonorina,Valley Carpenter Bee,Hymenoptera,Apidae,Xylocopa,Xylocopa sonorina
+2020,10,4,research,32.22791134,-110.9585123,Xylocopa sonorina,Valley Carpenter Bee,Hymenoptera,Apidae,Xylocopa,Xylocopa sonorina
+2020,9,5,research,32.23217951,-110.9539754,Xylocopa sonorina,Valley Carpenter Bee,Hymenoptera,Apidae,Xylocopa,Xylocopa sonorina
+2020,11,13,research,32.233105,-110.95233,Xylocopa sonorina,Valley Carpenter Bee,Hymenoptera,Apidae,Xylocopa,Xylocopa sonorina
+2020,9,2,research,32.2309358,-110.9534624,Xylocopa sonorina,Valley Carpenter Bee,Hymenoptera,Apidae,Xylocopa,Xylocopa sonorina
+2018,4,23,needs_id,32.23540837,-110.9541214,Copaeodes aurantiaca,Orange Skipperling,Lepidoptera,Hesperiidae,Copaeodes,Copaeodes aurantiaca
+2018,4,23,research,32.23544085,-110.9543159,Copaeodes aurantiaca,Orange Skipperling,Lepidoptera,Hesperiidae,Copaeodes,Copaeodes aurantiaca
+2018,4,23,research,32.23538603,-110.9543164,Copaeodes aurantiaca,Orange Skipperling,Lepidoptera,Hesperiidae,Copaeodes,Copaeodes aurantiaca
+2020,5,5,research,32.23051333,-110.952255,Copaeodes aurantiaca,Orange Skipperling,Lepidoptera,Hesperiidae,Copaeodes,Copaeodes aurantiaca
+2017,9,26,research,32.23219151,-110.9485227,Erynnis funeralis,Funereal Duskywing,Lepidoptera,Hesperiidae,Erynnis,Erynnis funeralis
+2008,10,18,research,32.23372,-110.950568,Hylephila phyleus,Fiery Skipper,Lepidoptera,Hesperiidae,Hylephila,Hylephila phyleus
+2016,7,25,research,32.23488513,-110.9482587,Hylephila phyleus,Fiery Skipper,Lepidoptera,Hesperiidae,Hylephila,Hylephila phyleus
+2017,4,12,research,32.23184883,-110.9540057,Hylephila phyleus,Fiery Skipper,Lepidoptera,Hesperiidae,Hylephila,Hylephila phyleus
+2017,4,12,research,32.23186744,-110.9539371,Hylephila phyleus,Fiery Skipper,Lepidoptera,Hesperiidae,Hylephila,Hylephila phyleus
+2017,4,12,research,32.23183169,-110.9539711,Hylephila phyleus,Fiery Skipper,Lepidoptera,Hesperiidae,Hylephila,Hylephila phyleus
+2017,4,12,research,32.23217744,-110.9506866,Hylephila phyleus,Fiery Skipper,Lepidoptera,Hesperiidae,Hylephila,Hylephila phyleus
+2017,4,14,research,32.23188726,-110.9507526,Hylephila phyleus,Fiery Skipper,Lepidoptera,Hesperiidae,Hylephila,Hylephila phyleus
+2017,7,4,research,32.23846423,-110.950909,Hylephila phyleus,Fiery Skipper,Lepidoptera,Hesperiidae,Hylephila,Hylephila phyleus
+2017,9,22,research,32.23178166,-110.9495358,Hylephila phyleus,Fiery Skipper,Lepidoptera,Hesperiidae,Hylephila,Hylephila phyleus
+2017,9,26,research,32.23220966,-110.9486005,Hylephila phyleus,Fiery Skipper,Lepidoptera,Hesperiidae,Hylephila,Hylephila phyleus
+2017,9,26,research,32.23323396,-110.9516538,Hylephila phyleus,Fiery Skipper,Lepidoptera,Hesperiidae,Hylephila,Hylephila phyleus
+2018,4,11,research,32.2318531,-110.9538915,Hylephila phyleus,Fiery Skipper,Lepidoptera,Hesperiidae,Hylephila,Hylephila phyleus
+2018,4,11,research,32.23397442,-110.955543,Hylephila phyleus,Fiery Skipper,Lepidoptera,Hesperiidae,Hylephila,Hylephila phyleus
+2019,8,26,research,32.23043833,-110.9504783,Hylephila phyleus,Fiery Skipper,Lepidoptera,Hesperiidae,Hylephila,Hylephila phyleus
+2019,9,5,research,32.231545,-110.95568,Hylephila phyleus,Fiery Skipper,Lepidoptera,Hesperiidae,Hylephila,Hylephila phyleus
+2020,8,10,research,32.23987,-110.9540867,Hylephila phyleus,Fiery Skipper,Lepidoptera,Hesperiidae,Hylephila,Hylephila phyleus
+2020,9,7,research,32.2318851,-110.9501094,Hylephila phyleus,Fiery Skipper,Lepidoptera,Hesperiidae,Hylephila,Hylephila phyleus
+2020,10,4,needs_id,32.23193131,-110.95575,Hylephila phyleus,Fiery Skipper,Lepidoptera,Hesperiidae,Hylephila,Hylephila phyleus
+2017,7,4,research,32.23837736,-110.9506862,Lerodea eufala,Eufala Skipper,Lepidoptera,Hesperiidae,Lerodea,Lerodea eufala
+2016,11,30,research,32.2320008,-110.9510827,Brephidium exilis,Western Pygmy-Blue,Lepidoptera,Lycaenidae,Brephidium,Brephidium exilis
+2016,11,30,research,32.2320148,-110.9507567,Brephidium exilis,Western Pygmy-Blue,Lepidoptera,Lycaenidae,Brephidium,Brephidium exilis
+2016,11,30,research,32.23186626,-110.950903,Brephidium exilis,Western Pygmy-Blue,Lepidoptera,Lycaenidae,Brephidium,Brephidium exilis
+2017,9,21,research,32.2318951,-110.9495519,Brephidium exilis,Western Pygmy-Blue,Lepidoptera,Lycaenidae,Brephidium,Brephidium exilis
+2018,11,2,research,32.22333145,-110.952774,Brephidium exilis,Western Pygmy-Blue,Lepidoptera,Lycaenidae,Brephidium,Brephidium exilis
+2016,11,30,research,32.2301624,-110.951921,Echinargus isola,Reakirt's Blue,Lepidoptera,Lycaenidae,Echinargus,Echinargus isola
+2017,9,21,research,32.2318985,-110.9494862,Echinargus isola,Reakirt's Blue,Lepidoptera,Lycaenidae,Echinargus,Echinargus isola
+2020,10,10,research,32.23148333,-110.9528717,Hemiargus ceraunus,Ceraunus Blue,Lepidoptera,Lycaenidae,Hemiargus,Hemiargus ceraunus
+2020,11,4,research,32.23174667,-110.9539717,Hemiargus ceraunus,Ceraunus Blue,Lepidoptera,Lycaenidae,Hemiargus,Hemiargus ceraunus
+2020,11,15,research,32.2287,-110.9482,Hemiargus ceraunus,Ceraunus Blue,Lepidoptera,Lycaenidae,Hemiargus,Hemiargus ceraunus
+2016,6,3,research,32.23734551,-110.9468149,Leptotes marina,Marine Blue,Lepidoptera,Lycaenidae,Leptotes,Leptotes marina
+2017,4,12,research,32.2310152,-110.9530372,Leptotes marina,Marine Blue,Lepidoptera,Lycaenidae,Leptotes,Leptotes marina
+2017,4,26,research,32.23108042,-110.953059,Leptotes marina,Marine Blue,Lepidoptera,Lycaenidae,Leptotes,Leptotes marina
+2017,6,1,research,32.23072,-110.95143,Leptotes marina,Marine Blue,Lepidoptera,Lycaenidae,Leptotes,Leptotes marina
+2017,9,18,research,32.23163333,-110.9497383,Leptotes marina,Marine Blue,Lepidoptera,Lycaenidae,Leptotes,Leptotes marina
+2017,9,21,research,32.23177543,-110.9491037,Leptotes marina,Marine Blue,Lepidoptera,Lycaenidae,Leptotes,Leptotes marina
+2017,9,22,research,32.2319034,-110.9541047,Leptotes marina,Marine Blue,Lepidoptera,Lycaenidae,Leptotes,Leptotes marina
+2017,9,26,research,32.23327934,-110.9517075,Leptotes marina,Marine Blue,Lepidoptera,Lycaenidae,Leptotes,Leptotes marina
+2018,4,23,research,32.23549313,-110.9542929,Leptotes marina,Marine Blue,Lepidoptera,Lycaenidae,Leptotes,Leptotes marina
+2018,4,23,research,32.23540493,-110.9542623,Leptotes marina,Marine Blue,Lepidoptera,Lycaenidae,Leptotes,Leptotes marina
+2018,4,23,research,32.23526345,-110.9541735,Leptotes marina,Marine Blue,Lepidoptera,Lycaenidae,Leptotes,Leptotes marina
+2018,4,23,research,32.23107392,-110.9530655,Leptotes marina,Marine Blue,Lepidoptera,Lycaenidae,Leptotes,Leptotes marina
+2018,4,23,research,32.23115879,-110.9529865,Leptotes marina,Marine Blue,Lepidoptera,Lycaenidae,Leptotes,Leptotes marina
+2018,10,24,research,32.23186493,-110.9538422,Leptotes marina,Marine Blue,Lepidoptera,Lycaenidae,Leptotes,Leptotes marina
+2019,11,8,research,32.2436287,-110.9459163,Leptotes marina,Marine Blue,Lepidoptera,Lycaenidae,Leptotes,Leptotes marina
+2017,5,4,research,32.236576,-110.9469839,Strymon melinus,Gray Hairstreak,Lepidoptera,Lycaenidae,Strymon,Strymon melinus
+2017,9,22,research,32.23156664,-110.9497261,Strymon melinus,Gray Hairstreak,Lepidoptera,Lycaenidae,Strymon,Strymon melinus
+2016,10,3,research,32.228247,-110.955242,Agraulis vanillae,Gulf Fritillary,Lepidoptera,Nymphalidae,Agraulis,Agraulis vanillae
+2015,3,12,research,32.231885,-110.950109,Anthanassa texana,Texan Crescent,Lepidoptera,Nymphalidae,Anthanassa,Anthanassa texana
+2017,4,12,research,32.23128053,-110.9529266,Anthanassa texana,Texan Crescent,Lepidoptera,Nymphalidae,Anthanassa,Anthanassa texana
+2017,4,21,research,32.23063123,-110.9530022,Anthanassa texana,Texan Crescent,Lepidoptera,Nymphalidae,Anthanassa,Anthanassa texana
+2017,4,21,research,32.23067149,-110.9510973,Anthanassa texana,Texan Crescent,Lepidoptera,Nymphalidae,Anthanassa,Anthanassa texana
+2017,6,1,research,32.23093,-110.95152,Anthanassa texana,Texan Crescent,Lepidoptera,Nymphalidae,Anthanassa,Anthanassa texana
+2020,3,7,research,32.23323333,-110.9486783,Anthanassa texana,Texan Crescent,Lepidoptera,Nymphalidae,Anthanassa,Anthanassa texana
+2020,6,25,research,32.22473175,-110.9406742,Anthanassa texana,Texan Crescent,Lepidoptera,Nymphalidae,Anthanassa,Anthanassa texana
+2020,8,10,research,32.23987167,-110.954095,Asterocampa celtis,Hackberry Emperor,Lepidoptera,Nymphalidae,Asterocampa,Asterocampa celtis
+2020,8,13,research,32.23826667,-110.9420306,Asterocampa celtis,Hackberry Emperor,Lepidoptera,Nymphalidae,Asterocampa,Asterocampa celtis
+2018,11,13,research,32.23075881,-110.9501847,Chlosyne lacinia,Bordered Patch,Lepidoptera,Nymphalidae,Chlosyne,Chlosyne lacinia
+2016,11,30,research,32.23042218,-110.9520291,Danaus gilippus,Queen,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+2016,11,30,research,32.2302149,-110.9521072,Danaus gilippus,Queen,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+2016,11,30,research,32.23046042,-110.9520293,Danaus gilippus,Queen,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+2017,7,28,needs_id,32.22555201,-110.9549461,Danaus gilippus,Queen,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+2017,8,21,research,32.22537008,-110.9549405,Danaus gilippus,Queen,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+2017,9,22,research,32.23184065,-110.9497236,Danaus gilippus,Queen,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+2017,9,22,research,32.23116758,-110.9381193,Danaus gilippus,Queen,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+2017,10,16,research,32.23048907,-110.9522646,Danaus gilippus,Queen,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+2017,10,17,research,32.23043375,-110.9521129,Danaus gilippus,Queen,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+2017,10,17,research,32.23040937,-110.9522372,Danaus gilippus,Queen,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+2017,10,25,research,32.23038459,-110.9525154,Danaus gilippus,Queen,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+2017,9,24,research,32.23188801,-110.9493906,Danaus gilippus,Queen,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+2018,8,30,research,32.22834396,-110.9579315,Danaus gilippus,Queen,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+2018,10,15,research,32.23707096,-110.9568834,Danaus gilippus,Queen,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+2018,11,3,research,32.22343445,-110.9530411,Danaus gilippus,Queen,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+2019,2,8,research,32.23047256,-110.9518585,Danaus gilippus,Queen,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+2019,3,29,research,32.23043833,-110.9521717,Danaus gilippus,Queen,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+2019,9,11,research,32.23256302,-110.949585,Danaus gilippus,Queen,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+2019,9,11,research,32.23329747,-110.9503305,Danaus gilippus,Queen,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+2019,9,12,research,32.23073173,-110.9539586,Danaus gilippus,Queen,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+2019,10,10,research,32.22388007,-110.9419101,Danaus gilippus,Queen,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+2019,11,12,research,32.24202633,-110.9428704,Danaus gilippus,Queen,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+2020,2,29,research,32.23308667,-110.9497917,Danaus gilippus,Queen,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+2020,8,26,research,32.22943667,-110.9533783,Danaus gilippus,Queen,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+2020,9,21,research,32.23592272,-110.9549133,Danaus gilippus,Queen,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+2020,10,17,research,32.23247833,-110.9394383,Danaus gilippus,Queen,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+2020,11,4,research,32.23053667,-110.9521333,Danaus gilippus,Queen,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+2020,11,3,research,32.23173857,-110.9565117,Danaus gilippus,Queen,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+2020,10,1,research,32.2393945,-110.9488165,Danaus gilippus,Queen,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+2020,11,26,research,32.232555,-110.9395671,Danaus gilippus,Queen,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+2020,12,11,research,32.232925,-110.9392867,Danaus gilippus,Queen,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+2021,2,5,research,32.225855,-110.93895,Danaus gilippus,Queen,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+2018,10,12,research,32.230555,-110.95202,Danaus plexippus,Monarch,Lepidoptera,Nymphalidae,Danaus,Danaus plexippus
+2018,10,12,research,32.23054096,-110.9520158,Danaus plexippus,Monarch,Lepidoptera,Nymphalidae,Danaus,Danaus plexippus
+2018,10,12,research,32.23048,-110.9519583,Danaus plexippus,Monarch,Lepidoptera,Nymphalidae,Danaus,Danaus plexippus
+2018,10,12,research,32.23047638,-110.9519348,Danaus plexippus,Monarch,Lepidoptera,Nymphalidae,Danaus,Danaus plexippus
+2018,10,29,research,32.23050508,-110.9522977,Danaus plexippus,Monarch,Lepidoptera,Nymphalidae,Danaus,Danaus plexippus
+2018,10,12,research,32.22991502,-110.9527061,Danaus plexippus,Monarch,Lepidoptera,Nymphalidae,Danaus,Danaus plexippus
+2018,12,2,research,32.226673,-110.949168,Danaus plexippus,Monarch,Lepidoptera,Nymphalidae,Danaus,Danaus plexippus
+2019,1,25,research,32.2304418,-110.9521365,Danaus plexippus,Monarch,Lepidoptera,Nymphalidae,Danaus,Danaus plexippus
+2019,4,8,research,32.23056109,-110.9520876,Danaus plexippus,Monarch,Lepidoptera,Nymphalidae,Danaus,Danaus plexippus
+2019,11,1,research,32.230457,-110.951934,Danaus plexippus,Monarch,Lepidoptera,Nymphalidae,Danaus,Danaus plexippus
+2019,9,2,research,32.24218136,-110.9429813,Danaus plexippus,Monarch,Lepidoptera,Nymphalidae,Danaus,Danaus plexippus
+2019,12,4,research,32.2304678,-110.9517723,Danaus plexippus,Monarch,Lepidoptera,Nymphalidae,Danaus,Danaus plexippus
+2020,3,14,research,32.23041667,-110.952155,Danaus plexippus,Monarch,Lepidoptera,Nymphalidae,Danaus,Danaus plexippus
+2020,4,17,research,32.23048333,-110.9521633,Danaus plexippus,Monarch,Lepidoptera,Nymphalidae,Danaus,Danaus plexippus
+2020,8,10,research,32.23988,-110.9542,Danaus plexippus,Monarch,Lepidoptera,Nymphalidae,Danaus,Danaus plexippus
+2020,11,15,research,32.22946215,-110.9539164,Danaus plexippus,Monarch,Lepidoptera,Nymphalidae,Danaus,Danaus plexippus
+2020,11,19,research,32.23667213,-110.9556421,Danaus plexippus,Monarch,Lepidoptera,Nymphalidae,Danaus,Danaus plexippus
+2020,6,20,research,32.24211333,-110.9428783,Danaus plexippus,Monarch,Lepidoptera,Nymphalidae,Danaus,Danaus plexippus
+2020,4,24,research,32.23184713,-110.9537689,Junonia coenia,Common Buckeye,Lepidoptera,Nymphalidae,Junonia,Junonia coenia
+2020,6,6,needs_id,32.22419412,-110.9388875,Junonia nigrosuffusa,Dark Buckeye,Lepidoptera,Nymphalidae,Junonia,Junonia nigrosuffusa
+2017,9,22,research,32.23164858,-110.9392512,Libytheana carinenta,American Snout,Lepidoptera,Nymphalidae,Libytheana,Libytheana carinenta
+2018,9,29,research,32.22495042,-110.9531275,Libytheana carinenta,American Snout,Lepidoptera,Nymphalidae,Libytheana,Libytheana carinenta
+2018,10,9,research,32.23127365,-110.9509888,Libytheana carinenta,American Snout,Lepidoptera,Nymphalidae,Libytheana,Libytheana carinenta
+2018,10,12,research,32.23090117,-110.9529487,Libytheana carinenta,American Snout,Lepidoptera,Nymphalidae,Libytheana,Libytheana carinenta
+2018,12,3,research,32.24202347,-110.953476,Libytheana carinenta,American Snout,Lepidoptera,Nymphalidae,Libytheana,Libytheana carinenta
+2017,4,10,needs_id,32.22561403,-110.9528697,Vanessa cardui,Painted Lady,Lepidoptera,Nymphalidae,Vanessa,Vanessa cardui
+2017,4,12,research,32.23204974,-110.9538197,Vanessa cardui,Painted Lady,Lepidoptera,Nymphalidae,Vanessa,Vanessa cardui
+2017,4,12,research,32.23188885,-110.9537171,Vanessa cardui,Painted Lady,Lepidoptera,Nymphalidae,Vanessa,Vanessa cardui
+2017,4,12,research,32.23186354,-110.9538091,Vanessa cardui,Painted Lady,Lepidoptera,Nymphalidae,Vanessa,Vanessa cardui
+2017,4,12,research,32.23183931,-110.9539645,Vanessa cardui,Painted Lady,Lepidoptera,Nymphalidae,Vanessa,Vanessa cardui
+2017,4,12,research,32.2311654,-110.9542029,Vanessa cardui,Painted Lady,Lepidoptera,Nymphalidae,Vanessa,Vanessa cardui
+2017,4,12,research,32.23181073,-110.9539563,Vanessa cardui,Painted Lady,Lepidoptera,Nymphalidae,Vanessa,Vanessa cardui
+2017,4,12,research,32.23182821,-110.9539571,Vanessa cardui,Painted Lady,Lepidoptera,Nymphalidae,Vanessa,Vanessa cardui
+2017,4,12,research,32.23181724,-110.9539266,Vanessa cardui,Painted Lady,Lepidoptera,Nymphalidae,Vanessa,Vanessa cardui
+2017,4,12,research,32.23195151,-110.9538523,Vanessa cardui,Painted Lady,Lepidoptera,Nymphalidae,Vanessa,Vanessa cardui
+2017,4,12,research,32.23181874,-110.9538295,Vanessa cardui,Painted Lady,Lepidoptera,Nymphalidae,Vanessa,Vanessa cardui
+2017,4,12,research,32.23178169,-110.9538926,Vanessa cardui,Painted Lady,Lepidoptera,Nymphalidae,Vanessa,Vanessa cardui
+2017,4,12,research,32.23159636,-110.9537987,Vanessa cardui,Painted Lady,Lepidoptera,Nymphalidae,Vanessa,Vanessa cardui
+2017,4,12,research,32.23128608,-110.9534916,Vanessa cardui,Painted Lady,Lepidoptera,Nymphalidae,Vanessa,Vanessa cardui
+2017,4,12,research,32.23173884,-110.953912,Vanessa cardui,Painted Lady,Lepidoptera,Nymphalidae,Vanessa,Vanessa cardui
+2017,4,13,research,32.22889483,-110.9519544,Vanessa cardui,Painted Lady,Lepidoptera,Nymphalidae,Vanessa,Vanessa cardui
+2017,4,13,research,32.23162381,-110.9544916,Vanessa cardui,Painted Lady,Lepidoptera,Nymphalidae,Vanessa,Vanessa cardui
+2017,4,14,research,32.23197126,-110.9523138,Vanessa cardui,Painted Lady,Lepidoptera,Nymphalidae,Vanessa,Vanessa cardui
+2017,4,12,research,32.23165357,-110.9539601,Vanessa cardui,Painted Lady,Lepidoptera,Nymphalidae,Vanessa,Vanessa cardui
+2017,4,10,research,32.22562,-110.9528417,Vanessa cardui,Painted Lady,Lepidoptera,Nymphalidae,Vanessa,Vanessa cardui
+2017,9,22,research,32.23188833,-110.9508967,Vanessa cardui,Painted Lady,Lepidoptera,Nymphalidae,Vanessa,Vanessa cardui
+2017,9,22,research,32.2318951,-110.9495519,Vanessa cardui,Painted Lady,Lepidoptera,Nymphalidae,Vanessa,Vanessa cardui
+2017,9,22,research,32.23167147,-110.9393342,Vanessa cardui,Painted Lady,Lepidoptera,Nymphalidae,Vanessa,Vanessa cardui
+2017,9,26,research,32.23217563,-110.9485764,Vanessa cardui,Painted Lady,Lepidoptera,Nymphalidae,Vanessa,Vanessa cardui
+2017,11,17,research,32.23047941,-110.9519511,Vanessa cardui,Painted Lady,Lepidoptera,Nymphalidae,Vanessa,Vanessa cardui
+2017,11,28,research,32.23193322,-110.954966,Vanessa cardui,Painted Lady,Lepidoptera,Nymphalidae,Vanessa,Vanessa cardui
+2018,12,1,research,32.23515019,-110.9577091,Vanessa cardui,Painted Lady,Lepidoptera,Nymphalidae,Vanessa,Vanessa cardui
+2019,9,4,research,32.23196667,-110.9539717,Vanessa cardui,Painted Lady,Lepidoptera,Nymphalidae,Vanessa,Vanessa cardui
+2019,9,4,research,32.23192,-110.95382,Vanessa cardui,Painted Lady,Lepidoptera,Nymphalidae,Vanessa,Vanessa cardui
+2020,11,13,research,32.23270833,-110.9495867,Vanessa cardui,Painted Lady,Lepidoptera,Nymphalidae,Vanessa,Vanessa cardui
+2020,11,25,research,32.23862833,-110.9466633,Vanessa cardui,Painted Lady,Lepidoptera,Nymphalidae,Vanessa,Vanessa cardui
+2020,11,15,research,32.2321,-110.9484,Vanessa cardui,Painted Lady,Lepidoptera,Nymphalidae,Vanessa,Vanessa cardui
+2020,11,12,research,32.22968997,-110.952917,Vanessa cardui,Painted Lady,Lepidoptera,Nymphalidae,Vanessa,Vanessa cardui
+2017,9,30,research,32.2319214,-110.9509248,Vanessa cardui,Painted Lady,Lepidoptera,Nymphalidae,Vanessa,Vanessa cardui
+2017,4,10,research,32.2275552,-110.9510701,Vanessa virginiensis,American Lady,Lepidoptera,Nymphalidae,Vanessa,Vanessa virginiensis
+2018,9,12,research,32.23050139,-110.9522474,Battus philenor,Pipevine Swallowtail,Lepidoptera,Papilionidae,Battus,Battus philenor
+2019,3,19,research,32.2436,-110.9505,Battus philenor,Pipevine Swallowtail,Lepidoptera,Papilionidae,Battus,Battus philenor
+2019,9,4,research,32.23215833,-110.95372,Battus philenor,Pipevine Swallowtail,Lepidoptera,Papilionidae,Battus,Battus philenor
+2020,7,20,research,32.2421,-110.9428783,Battus philenor,Pipevine Swallowtail,Lepidoptera,Papilionidae,Battus,Battus philenor
+2014,10,3,research,32.233366,-110.954573,Papilio polyxenes asterius,Eastern Black Swallowtail,Lepidoptera,Papilionidae,Papilio,Papilio polyxenes
+2016,6,29,research,32.24035968,-110.9447324,Papilio polyxenes,Black Swallowtail,Lepidoptera,Papilionidae,Papilio,Papilio polyxenes
+2019,9,14,needs_id,32.23308667,-110.95482,Papilio polyxenes,Black Swallowtail,Lepidoptera,Papilionidae,Papilio,Papilio polyxenes
+2019,9,13,research,32.228454,-110.94892,Papilio polyxenes,Black Swallowtail,Lepidoptera,Papilionidae,Papilio,Papilio polyxenes
+2020,5,6,research,32.23964381,-110.9465194,Papilio polyxenes,Black Swallowtail,Lepidoptera,Papilionidae,Papilio,Papilio polyxenes
+2016,3,16,research,32.22892203,-110.9638005,Papilio rumiko,Western Giant Swallowtail,Lepidoptera,Papilionidae,Papilio,Papilio rumiko
+2016,3,16,research,32.22890567,-110.9637982,Papilio rumiko,Western Giant Swallowtail,Lepidoptera,Papilionidae,Papilio,Papilio rumiko
+2016,10,30,research,32.23014975,-110.9588948,Papilio rumiko,Western Giant Swallowtail,Lepidoptera,Papilionidae,Papilio,Papilio rumiko
+2017,4,12,research,32.23217434,-110.953914,Papilio rumiko,Western Giant Swallowtail,Lepidoptera,Papilionidae,Papilio,Papilio rumiko
+2017,4,13,research,32.22854569,-110.9550707,Papilio rumiko,Western Giant Swallowtail,Lepidoptera,Papilionidae,Papilio,Papilio rumiko
+2017,4,13,research,32.23363136,-110.9553302,Papilio rumiko,Western Giant Swallowtail,Lepidoptera,Papilionidae,Papilio,Papilio rumiko
+2017,4,13,research,32.2300768,-110.949965,Papilio rumiko,Western Giant Swallowtail,Lepidoptera,Papilionidae,Papilio,Papilio rumiko
+2017,4,14,research,32.23326994,-110.9527325,Papilio rumiko,Western Giant Swallowtail,Lepidoptera,Papilionidae,Papilio,Papilio rumiko
+2017,9,22,research,32.231544,-110.93928,Papilio rumiko,Western Giant Swallowtail,Lepidoptera,Papilionidae,Papilio,Papilio rumiko
+2017,9,18,research,32.241005,-110.9587633,Papilio rumiko,Western Giant Swallowtail,Lepidoptera,Papilionidae,Papilio,Papilio rumiko
+2018,4,11,research,32.2339332,-110.9556116,Papilio rumiko,Western Giant Swallowtail,Lepidoptera,Papilionidae,Papilio,Papilio rumiko
+2018,4,26,research,32.23217833,-110.9556583,Papilio rumiko,Western Giant Swallowtail,Lepidoptera,Papilionidae,Papilio,Papilio rumiko
+2018,11,3,research,32.23147673,-110.9537987,Papilio rumiko,Western Giant Swallowtail,Lepidoptera,Papilionidae,Papilio,Papilio rumiko
+2019,4,26,research,32.22837645,-110.9545045,Papilio rumiko,Western Giant Swallowtail,Lepidoptera,Papilionidae,Papilio,Papilio rumiko
+2019,9,6,research,32.233362,-110.955833,Papilio rumiko,Western Giant Swallowtail,Lepidoptera,Papilionidae,Papilio,Papilio rumiko
+2019,9,14,research,32.23326167,-110.9534217,Papilio rumiko,Western Giant Swallowtail,Lepidoptera,Papilionidae,Papilio,Papilio rumiko
+2019,9,15,research,32.229175,-110.9577867,Papilio rumiko,Western Giant Swallowtail,Lepidoptera,Papilionidae,Papilio,Papilio rumiko
+2019,10,31,research,32.23197167,-110.949005,Papilio rumiko,Western Giant Swallowtail,Lepidoptera,Papilionidae,Papilio,Papilio rumiko
+2019,11,12,research,32.2318499,-110.9527153,Papilio rumiko,Western Giant Swallowtail,Lepidoptera,Papilionidae,Papilio,Papilio rumiko
+2020,1,7,research,32.23153,-110.9643867,Papilio rumiko,Western Giant Swallowtail,Lepidoptera,Papilionidae,Papilio,Papilio rumiko
+2020,4,21,research,32.23031775,-110.9411227,Papilio rumiko,Western Giant Swallowtail,Lepidoptera,Papilionidae,Papilio,Papilio rumiko
+2020,4,23,research,32.23416333,-110.9533083,Papilio rumiko,Western Giant Swallowtail,Lepidoptera,Papilionidae,Papilio,Papilio rumiko
+2020,6,13,research,32.24212,-110.9428783,Papilio rumiko,Western Giant Swallowtail,Lepidoptera,Papilionidae,Papilio,Papilio rumiko
+2020,8,10,needs_id,32.239955,-110.9540333,Colias eurytheme,Orange Sulphur,Lepidoptera,Pieridae,Colias,Colias eurytheme
+2018,11,28,needs_id,32.23205833,-110.954155,Phoebis agarithe,Large Orange Sulphur,Lepidoptera,Pieridae,Phoebis,Phoebis agarithe
+2016,9,26,research,32.23188123,-110.9509475,Phoebis sennae,Cloudless Sulphur,Lepidoptera,Pieridae,Phoebis,Phoebis sennae
+2016,9,26,research,32.23190333,-110.9509583,Phoebis sennae,Cloudless Sulphur,Lepidoptera,Pieridae,Phoebis,Phoebis sennae
+2016,11,30,research,32.23189069,-110.9509924,Phoebis sennae,Cloudless Sulphur,Lepidoptera,Pieridae,Phoebis,Phoebis sennae
+2016,11,30,research,32.23181758,-110.9509963,Phoebis sennae,Cloudless Sulphur,Lepidoptera,Pieridae,Phoebis,Phoebis sennae
+2016,11,30,research,32.2315935,-110.9509896,Phoebis sennae,Cloudless Sulphur,Lepidoptera,Pieridae,Phoebis,Phoebis sennae
+2016,11,30,research,32.23190887,-110.9509203,Phoebis sennae,Cloudless Sulphur,Lepidoptera,Pieridae,Phoebis,Phoebis sennae
+2016,11,30,research,32.23186928,-110.9509565,Phoebis sennae,Cloudless Sulphur,Lepidoptera,Pieridae,Phoebis,Phoebis sennae
+2017,9,18,research,32.23181667,-110.9510033,Phoebis sennae,Cloudless Sulphur,Lepidoptera,Pieridae,Phoebis,Phoebis sennae
+2017,9,26,research,32.23193242,-110.9509644,Phoebis sennae,Cloudless Sulphur,Lepidoptera,Pieridae,Phoebis,Phoebis sennae
+2017,9,26,research,32.23328841,-110.9516646,Phoebis sennae,Cloudless Sulphur,Lepidoptera,Pieridae,Phoebis,Phoebis sennae
+2017,10,13,research,32.23206125,-110.9537253,Phoebis sennae,Cloudless Sulphur,Lepidoptera,Pieridae,Phoebis,Phoebis sennae
+2018,10,18,needs_id,32.23177402,-110.9509681,Phoebis sennae,Cloudless Sulphur,Lepidoptera,Pieridae,Phoebis,Phoebis sennae
+2020,4,11,needs_id,32.23436667,-110.9620367,Phoebis sennae,Cloudless Sulphur,Lepidoptera,Pieridae,Phoebis,Phoebis sennae
+2020,8,10,research,32.239905,-110.9540167,Phoebis sennae,Cloudless Sulphur,Lepidoptera,Pieridae,Phoebis,Phoebis sennae
+2020,9,4,research,32.23160352,-110.9527793,Phoebis sennae,Cloudless Sulphur,Lepidoptera,Pieridae,Phoebis,Phoebis sennae
+2008,6,3,research,32.23332,-110.95075,Pontia protodice,Checkered White,Lepidoptera,Pieridae,Pontia,Pontia protodice
+2017,4,13,research,32.23186987,-110.9565366,Zerene cesonia,Southern Dogface,Lepidoptera,Pieridae,Zerene,Zerene cesonia
+2017,9,22,research,32.23148611,-110.9496306,Zerene cesonia,Southern Dogface,Lepidoptera,Pieridae,Zerene,Zerene cesonia
+2019,9,16,needs_id,32.23161613,-110.9490215,Calephelis nemesis,Fatal Metalmark,Lepidoptera,Riodinidae,Calephelis,Calephelis nemesis
