@@ -34,14 +34,6 @@ id,year_observed,month_observed,day_observed,time_observed_at,user_id,user_login
 64256377,2020,9,5,2020-09-06 00:00:00 UTC,904914,jsimon48,research,32.23389873,-110.9557792,Anthophora californica,California Digger Bee,Insecta,308726,Hymenoptera,Apidae,Anthophora,Anthophora californica
 65735911,2020,9,12,2020-09-12 21:16:00 UTC,3520864,meaganash,needs_id,32.2294,-110.9534,Anthophora californica,California Digger Bee,Insecta,308726,Hymenoptera,Apidae,Anthophora,Anthophora californica
 10099370,2018,3,4,2018-03-04 23:28:00 UTC,266296,swells,research,32.24333,-111.16774,Anthophora urbana,Urbane Digger Bee,Insecta,57681,Hymenoptera,Apidae,Anthophora,Anthophora urbana
-11088581,2018,4,17,2018-04-17 22:58:19 UTC,312548,jrvogt,needs_id,32.2287761,-110.9289525,Anthophora,Common Digger Bees,Insecta,57682,Hymenoptera,Apidae,Anthophora,
-37697841,2020,1,17,2020-01-17 20:21:00 UTC,442615,roomthily,needs_id,32.27815793,-111.0245465,Anthophora,Common Digger Bees,Insecta,57682,Hymenoptera,Apidae,Anthophora,
-37697854,2020,1,17,2020-01-17 20:47:00 UTC,442615,roomthily,needs_id,32.27923721,-111.0274305,Anthophora,Common Digger Bees,Insecta,57682,Hymenoptera,Apidae,Anthophora,
-46675753,2020,5,20,2020-05-21 01:28:55 UTC,1136503,robin153,needs_id,32.14972499,-110.7668706,Anthophora,Common Digger Bees,Insecta,57682,Hymenoptera,Apidae,Anthophora,
-46676004,2020,5,20,2020-05-21 01:32:36 UTC,1136503,robin153,needs_id,32.14969331,-110.7668615,Anthophora,Common Digger Bees,Insecta,57682,Hymenoptera,Apidae,Anthophora,
-59094599,2020,9,9,2020-09-09 17:16:00 UTC,442615,roomthily,needs_id,32.2375135,-110.800158,Anthophora,Common Digger Bees,Insecta,57682,Hymenoptera,Apidae,Anthophora,
-61747361,2020,10,4,2020-10-04 17:55:00 UTC,442615,roomthily,needs_id,32.27927695,-111.0217737,Anthophora,Common Digger Bees,Insecta,57682,Hymenoptera,Apidae,Anthophora,
-62437692,2020,10,12,2020-10-12 22:07:39 UTC,284685,madkaplan,needs_id,32.23740672,-110.9478636,Anthophora,Common Digger Bees,Insecta,57682,Hymenoptera,Apidae,Anthophora,
 617256,2014,3,28,2014-03-28 16:32:56 UTC,17909,chris_hass,research,32.244013,-111.168174,Apis mellifera,Western Honey Bee,Insecta,47219,Hymenoptera,Apidae,Apis,Apis mellifera
 617979,2014,3,28,2014-03-28 16:21:46 UTC,17909,chris_hass,research,32.244013,-111.168174,Apis mellifera,Western Honey Bee,Insecta,47219,Hymenoptera,Apidae,Apis,Apis mellifera
 1103274,2014,11,21,,22589,sambiology,research,32.217396,-111.102835,Apis mellifera,Western Honey Bee,Insecta,47219,Hymenoptera,Apidae,Apis,Apis mellifera
