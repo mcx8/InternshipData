@@ -11,10 +11,12 @@
 library(VennDiagram)
 
 # Create a sample of data of "species" seen in Tucson; for these mock data we 
-# are using the set of lower-case letters
-Tucson <- sample(x = letters, replace = TRUE, size = 500)
+# are using the set of lower-case and upper-case letters
+Tucson <- sample(x = c(letters, LETTERS), replace = TRUE, size = 500)
 # To make the UA sample we now sample from that Tucson sample
-UArizona <- sample(x = tucson, replace = TRUE, size = 50)
+UArizona <- sample(x = Tucson, replace = TRUE, size = 50)
+# NOTE: the two data creation steps would be replaced by code to read in data 
+# from data files, rather than randomly generating data
 
 # Bundle the two together in a list
 mock_data <- list(UArizona = UArizona,
