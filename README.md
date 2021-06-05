@@ -1,3 +1,3 @@
 # UArizona hotspots
 
-Code and data for comparing UArizona pollinator biodiversity with Tucson
+This has code and data for comparing UArizona pollinator biodiversity with Tucson 🦋🐝
