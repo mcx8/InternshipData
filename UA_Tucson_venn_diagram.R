@@ -19,6 +19,9 @@ library(tidyverse)
 # Data already has desired pollinator families isolated
 # (Apidae, Hesperiidae, Lycaenidae, Nymphalidae, Papillionidae, Pieridae, Riodinidae)
 
+Tucson_MARCH <- read.csv(file = "HymLep_only_Data/Tucson_MARCH.csv")
+UofA_MARCH <- read.csv(file = "HymLep_only_Data/UofA_MARCH.csv")
+
 # What species are present in each dataset?
 # We can take the unique species names to find out
 Tucson_species_present <- Tucson_MARCH %>% 

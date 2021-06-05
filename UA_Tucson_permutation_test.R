@@ -3,7 +3,6 @@
 # April 5, 2021
 
 # Permutation test to test significance of species richness on UArizona campus
-# Using Tucson_species_only and UofA_species_only data
 
 # NOTES FOR MYSELF:
 # Test statistic: mean of treatment - mean of control
