@@ -9,14 +9,14 @@
 # And then replotting a map to make sure the function worked
 # Before using it in UA_Tucson_perm_test_using_area
 
------------------------------------------------------------------------------------------------
+# -----------------------------------------------------------------------------------------------
   
 library(tidyverse)
 library(dplyr)
 library(ggmap)
 library(ggplot2)
 
------------------------------------------------------------------------------------------------
+# -----------------------------------------------------------------------------------------------
 
 # The data we are using here
 Tucson_MARCH <- read.csv(file = "HymLep_only_Data/Tucson_MARCH.csv")
@@ -55,7 +55,7 @@ ggsave ("Tucson_map.png",
         plot = Tucson_map,
         path = "C:/Users/maxin/OneDrive/Documents/Space Grant Internship/UAhotspot")
 
------------------------------------------------------------------------------------------------
+# -----------------------------------------------------------------------------------------------
   
 # Alternative map to see that the bounds are only in urban/suburban area
 

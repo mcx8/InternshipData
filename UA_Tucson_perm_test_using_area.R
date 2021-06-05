@@ -16,14 +16,14 @@
 # Subtracting species diversity of random rectangles from UofA rectangle species diversity
 # See result
 
------------------------------------------------------------------------------------------------
+# -----------------------------------------------------------------------------------------------
 
 library(tidyverse)
 library(dplyr)
 library(ggmap)
 library(ggplot2)
 
------------------------------------------------------------------------------------------------
+# -----------------------------------------------------------------------------------------------
 
 # Data we are using
 Tucson_MARCH <- read.csv(file = "HymLep_only_Data/Tucson_MARCH.csv")
@@ -70,7 +70,7 @@ tucson_spp <- tucson_spp %>%
   filter(tucson == TRUE) %>%
   select(-rectangle1, -rectangle2, -tucson)
 
------------------------------------------------------------------------------------------------
+# -----------------------------------------------------------------------------------------------
 
 # Find boundaries of UofA
 # Search "University of Arizona" in iNaturalist
@@ -87,7 +87,7 @@ long_range <- UofA_bound[4]-UofA_bound[2]
 lat_dist <- lat_range/2
 long_dist <- long_range/2
 
------------------------------------------------------------------------------------------------
+# -----------------------------------------------------------------------------------------------
 
 # HOW ARE WE GETTING RANDOM SAMPLES FROM TUCSON?
 # First, we want to randomly select a location in Tucson
@@ -115,7 +115,7 @@ Tucson_sub <- filter(tucson_spp,
 Tucson_sub <- filter(Tucson_sub, 
                      ((center_long-long_dist)<longitude & longitude<(center_long+long_dist)))
 
------------------------------------------------------------------------------------------------
+# -----------------------------------------------------------------------------------------------
 
 # THIS SECTION IS FOR CHECKING PURPOSES:
 # We can make a visual for the points to make sure it is working within the bounds
@@ -151,7 +151,7 @@ ggsave ("Rand_samp.png",
         plot = rand_samp_map,
         path = "C:/Users/maxin/OneDrive/Documents/Space Grant Internship/UAhotspot")
 
------------------------------------------------------------------------------------------------
+# -----------------------------------------------------------------------------------------------
 
 # Make sure bounds are UofA bounds
 base_UA <- get_googlemap(center = c((UofA_bound[4]+UofA_bound[2])/2, 
@@ -179,7 +179,7 @@ ggsave ("UA_samp.png",
         plot = UA_samp_map,
         path = "C:/Users/maxin/OneDrive/Documents/Space Grant Internship/UAhotspot")
 
------------------------------------------------------------------------------------------------
+# -----------------------------------------------------------------------------------------------
   
 # PERMUTATION TEST:
   
@@ -228,7 +228,7 @@ for(i in 1:num_reps) {
   rich_diff[i] <- nrow(unique(UofA_species)) - nrow(unique(Tucson_sub_species))
 }
 
------------------------------------------------------------------------------------------------
+# -----------------------------------------------------------------------------------------------
 
 # How many of those show that UofA has a greater species richness than Tucson subsample?
 # If the values are positive, UofA > Tucson subsample in terms of richness
@@ -249,7 +249,7 @@ p_value <- 1 - prob_hotspot
 rich_df <- data.frame(permutation = 1:num_reps,
                       delta = rich_diff)
 
------------------------------------------------------------------------------------------------
+# -----------------------------------------------------------------------------------------------
 
 # The null hypothesis: mean difference between UofA and Tucson richness is 0
 delta_plot <- ggplot(data = rich_df, mapping = aes(x = delta)) +
