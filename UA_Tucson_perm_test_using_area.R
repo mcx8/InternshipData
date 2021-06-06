@@ -121,7 +121,7 @@ Tucson_sub <- filter(Tucson_sub,
 # We can make a visual for the points to make sure it is working within the bounds
 # ggmap requires an API key, so we need to get one first to use it here
 # Run this function to register the API key so we can use Google Maps
-register_google (key = "AIzaSyD9Sn7gxF4xsmtGLFp90ZSVkM5b4H4TPA0")
+register_google (key = "")
 
 # Get the base map
 # The center is (longitude, latitude)
