@@ -39,7 +39,7 @@ UofA_speciescoord <- UofA_MARCH %>%
 # because then we would be taking random samples from UA as well
 # So we want to make a new Tucson data set with data unique to Tucson (no UA data)
 # Species will usually be too similar to separate them, so we'll use coordinates
-Tucson_speciescoord <- anti_join(Tucson_speciescoord, UofA_speciescoord, by = "latitude")
+Tucson_speciescoord <- anti_join(Tucson_speciescoord, UofA_speciescoord, by = c("latitude", "longitude"))
 
 # -----------------------------------------------------------------------------------------------
 
@@ -190,8 +190,12 @@ tucson_spp2 <- tucson_spp2 %>%
 # Longitude: -110.907607, -110.909718
 # OR here we're going to do the same thing we did earlier to exclude UA data from Tucson
 
-Tucson_BotGar <- read.csv(file = "Data/TucsonBG.csv")
+Tucson_BotGar <- read.csv(file = "HymLep_only_Data/TucsonBG.csv")
 
+Tucson_BGcoord <- Tucson_BotGar %>% 
+  select(scientific_name, latitude, longitude)
+
+tucson_spp3 <- anti_join(tucson_spp2, Tucson_BGcoord, by = c("latitude", "longitude"))
 
 # -----------------------------------------------------------------------------------------------
 
@@ -212,6 +216,7 @@ long_dist <- long_range/2
 
 # -----------------------------------------------------------------------------------------------
 
+# THIS SECTION IS FOR TRIAL PURPOSES:
 # HOW ARE WE GETTING RANDOM SAMPLES FROM TUCSON?
 # First, we want to randomly select a location in Tucson
 # This gives us a random data point with: species, latitude, longitude
@@ -276,6 +281,7 @@ ggsave ("Rand_samp.png",
 
 # -----------------------------------------------------------------------------------------------
 
+# THIS SECTION IS FOR CHECKING PURPOSES:
 # Make sure bounds are UofA bounds
 base_UA <- get_googlemap(center = c((UofA_bound[4]+UofA_bound[2])/2, 
                                     (UofA_bound[3]+UofA_bound[1])/2), 
@@ -339,10 +345,10 @@ UofA_species <- UofA_speciescoord %>%
 # so we need to count the rows the unique species are stored in
 # And then each result from the last line will be stored in rich_diff
 for(i in 1:num_reps) {
-  rand_samp <- as.matrix(sample_n(tucson_spp2, 1, fac="latitude"))
+  rand_samp <- as.matrix(sample_n(tucson_spp3, 1, fac="latitude"))
   center_lat <- as.numeric(rand_samp[2])
   center_long <- as.numeric(rand_samp[3])
-  Tucson_sub <- filter(tucson_spp2, 
+  Tucson_sub <- filter(tucson_spp3, 
                        ((center_lat-lat_dist)<latitude & latitude<(center_lat+lat_dist)))
   Tucson_sub <- filter(Tucson_sub, 
                        ((center_long-long_dist)<longitude & longitude<(center_long+long_dist)))
