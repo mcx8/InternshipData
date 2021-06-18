@@ -41,34 +41,155 @@ UofA_speciescoord <- UofA_MARCH %>%
 # Species will usually be too similar to separate them, so we'll use coordinates
 Tucson_speciescoord <- anti_join(Tucson_speciescoord, UofA_speciescoord, by = "latitude")
 
+# -----------------------------------------------------------------------------------------------
+
+# BOUNDARY EDIT 1
 # Since we want to compare whether any area in urban/suburban Tucson has
 # more species that UofA,
 # We want to constrain the data to only urban/suburban Tucson
 # NOTE: Originally we didn't, so the distribution showed two humps
 
+# Code from Dr. Prudic
 # Filter to Tucson latitude and longitude using boxes
 # rectangle 1: 32.351802, 32.209744, -110.962849, -111.046889 
 # rectangle 2: 32.260557, 32.209744, -110.841198, -110.962849
 # Whenever a point falls within the box, it is assigned TRUE
 # If not, it is FALSE
 # And then all of those results are put back into a table (tucson_spp)
-tucson_spp <- Tucson_speciescoord %>% 
-  mutate(rectangle1 = if_else(condition = between(latitude, 32.209744, 32.351802) &
-                                between(longitude, -111.046889, -110.962849), 
-                              true = TRUE, false = FALSE), 
-         rectangle2 = if_else(condition = between(latitude, 32.209744, 32.260557) &
-                                between(longitude, -110.962849, -110.841198), 
-                              true = TRUE, false = FALSE)) %>%
-  mutate(tucson = rectangle1 | rectangle2)
+
+# tucson_spp <- Tucson_speciescoord %>% 
+#   mutate(rectangle1 = if_else(condition = between(latitude, 32.209744, 32.351802) &
+#                               between(longitude, -111.046889, -110.962849), 
+#                             true = TRUE, false = FALSE), 
+#        rectangle2 = if_else(condition = between(latitude, 32.209744, 32.260557) &
+#                               between(longitude, -110.962849, -110.841198), 
+#                             true = TRUE, false = FALSE)) %>%
+#   mutate(tucson = rectangle1 | rectangle2)
 
 # This modifies tucson_spp
 # We are only keeping the points inside the rectangles (TRUEs)
 # AKA in urban/suburban Tucson
 # And then I believe the minus signs make it so the values are not TRUE/FALSE,
 # but the data values (if you run this without the minus signs it is just a bunch of TRUE/FALSE)
-tucson_spp <- tucson_spp %>%
+# tucson_spp <- tucson_spp %>%
+#   filter(tucson == TRUE) %>%
+#   select(-rectangle1, -rectangle2, -tucson)
+
+# -----------------------------------------------------------------------------------------------
+
+# BOUNDARY EDIT 2
+# Restricting points to a rectangle in urban Tucson
+# Removes Sweetwater and Tohono Chul hotspots from data pool
+# Boundaries:
+# North: River, South: Ajo (32.177922)
+# West: I-10, East: Kolb (-110.840651)
+# River and I-10 aren't straight lines, so we need to make a few boxes to cover the area
+
+# Roger to River (32.279213, 32.297346) / La Cholla to 1st (-111.012016, -110.961095)
+# Speedway to Roger (32.235993, 32.279213) / N Fairview to Kolb (-110.986553, -110.840651)
+# Speedway to E 36th (32.235993, 32.192389) / I-10 to Kolb (-110.979606, -110.840651)
+# E 36th to Ajo (32.192389, 32.177926) / S Park to Kolb (-110.956259, -110.840651)
+
+# Roger to Wetmore (32.279213, 32.286582) / 1st to Kelvin (-110.961095, -110.920330)
+# Wetmore to River (32.286582, 32.294404) / 1st to Mountain (-110.961095, -110.952424)
+# Wetmore to River (32.286582, 32.291290) / Mountain to Campbell (-110.952424, -110.943813)
+
+# Roger to River (32.279213, 32.306120) / Kain to La Cholla (-111.020541, -111.012016)
+# Zinnia to River (32.290661, 32.308577) / Kain to N Davis (-111.020541, -111.026898)
+# Ruthrauff to River (32.294224, 32.310832) / N Davis to N Emerald (-111.026898, -111.032816)
+# Curtis to River (32.301487, 32.311629) / Emerald to N Camino de la Tierra (-111.032816, -111.037383)
+
+# Grant to Roger (32.250341, 32.279213) / Flowing Wells to Fairview (-110.995910, -110.986553)
+# Glenn to Roger (32.257578, 32.279213) / Flowing Wells to Romero (-110.995910, -111.003494)
+# Fort Lowell to Roger (32.264722, 32.279213) / Romero to N Sun Tran (-111.003494, -111.008064)
+# Prince to Roger (32.271996, 32.279213) / N Sun Tran to La Cholla (-111.008064, -111.012016)
+# W Weymouth to Roger (32.274288, 32.279213) / La Cholla to N Sullinger (-111.012016, -111.017794)
+
+# W 42nd to 36th (32.186822, 32,192389) / 12th to S Park (-110.977564, -110.956259)
+
+tucson_spp2 <- Tucson_speciescoord %>% 
+  mutate(rectangle1 = if_else(condition = between(latitude, 32.279213, 32.297346) &
+                                between(longitude, -111.012016, -110.961095), 
+                              true = TRUE, false = FALSE), 
+         rectangle2 = if_else(condition = between(latitude, 32.235993, 32.279213) &
+                                between(longitude, -110.986553, -110.840651), 
+                              true = TRUE, false = FALSE),
+         rectangle3 = if_else(condition = between(latitude, 32.192389, 32.235993) &
+                                between(longitude, -110.979606, -110.840651), 
+                              true = TRUE, false = FALSE), 
+         rectangle4 = if_else(condition = between(latitude, 32.177926, 32.192389) &
+                                between(longitude, -110.956259, -110.840651), 
+                              true = TRUE, false = FALSE),
+         rectangle5 = if_else(condition = between(latitude, 32.279213, 32.286582) &
+                                between(longitude, -110.961095, -110.920330), 
+                              true = TRUE, false = FALSE), 
+         rectangle6 = if_else(condition = between(latitude, 32.286582, 32.294404) &
+                                between(longitude, -110.961095, -110.952424), 
+                              true = TRUE, false = FALSE),
+         rectangle7 = if_else(condition = between(latitude, 32.286582, 32.291290) &
+                                between(longitude, -110.952424, -110.943813), 
+                              true = TRUE, false = FALSE), 
+         rectangle8 = if_else(condition = between(latitude, 32.279213, 32.306120) &
+                                between(longitude, -111.020541, -111.012016), 
+                              true = TRUE, false = FALSE),
+         rectangle9 = if_else(condition = between(latitude, 32.290661, 32.308577) &
+                                between(longitude, -111.026898, -111.020541), 
+                              true = TRUE, false = FALSE), 
+         rectangle10 = if_else(condition = between(latitude, 32.294224, 32.310832) &
+                                between(longitude, -111.032816, -111.026898), 
+                              true = TRUE, false = FALSE),
+         rectangle11 = if_else(condition = between(latitude, 32.301487, 32.311629) &
+                                between(longitude, -111.037383, -111.032816), 
+                              true = TRUE, false = FALSE), 
+         rectangle12 = if_else(condition = between(latitude, 32.250341, 32.279213) &
+                                between(longitude, -110.995910, -110.986553), 
+                              true = TRUE, false = FALSE),
+         rectangle13 = if_else(condition = between(latitude, 32.257578, 32.279213) &
+                                between(longitude, -111.003494, -110.995910), 
+                              true = TRUE, false = FALSE), 
+         rectangle14 = if_else(condition = between(latitude, 32.264722, 32.279213) &
+                                between(longitude, -111.008064, -111.003494), 
+                              true = TRUE, false = FALSE),
+         rectangle15 = if_else(condition = between(latitude, 32.271996, 32.279213) &
+                                between(longitude, -111.012016, -111.008064), 
+                              true = TRUE, false = FALSE), 
+         rectangle16 = if_else(condition = between(latitude, 32.274288, 32.279213) &
+                                 between(longitude, -111.017794, -111.012016), 
+                               true = TRUE, false = FALSE),
+         rectangle17 = if_else(condition = between(latitude, 32.186822, 32.192389) &
+                                 between(longitude, -110.977564, -110.956259), 
+                               true = TRUE, false = FALSE)) %>%
+  mutate(tucson = rectangle1 | rectangle2 | rectangle3 | 
+           rectangle4 | rectangle5 | rectangle6 | 
+           rectangle7 | rectangle8 | rectangle9 |
+           rectangle10 | rectangle11 | rectangle12 |
+           rectangle13 | rectangle14 | rectangle15 |
+           rectangle16 | rectangle17)
+
+tucson_spp2 <- tucson_spp2 %>%
   filter(tucson == TRUE) %>%
-  select(-rectangle1, -rectangle2, -tucson)
+  select(-rectangle1, -rectangle2, -rectangle3,
+         -rectangle4, -rectangle5, -rectangle6, 
+         -rectangle7, -rectangle8, -rectangle9,
+         -rectangle10, -rectangle11, -rectangle12,
+         -rectangle13, -rectangle14, -rectangle15,
+         -rectangle16, -rectangle17, -tucson)
+
+# -----------------------------------------------------------------------------------------------
+
+# EDIT 3
+# Permutation plot from EDIT 2 moves most permutations to right side (UofA has more species)
+# But there is a high number of permutations that are in the -18 region
+# That is probably coming from the Tucson Botanical Garden
+# So here, we will remove that region
+
+# The Tucson Botanical Garden on Google Maps is a nice rectangle
+# So we can just find the coordinates for it and exclude that area
+# And then see what that does for us
+# Latitude: 32.247916, 32.248955
+# Longitude: -110.907607, -110.909718
+
+
 
 # -----------------------------------------------------------------------------------------------
 
@@ -216,10 +337,10 @@ UofA_species <- UofA_speciescoord %>%
 # so we need to count the rows the unique species are stored in
 # And then each result from the last line will be stored in rich_diff
 for(i in 1:num_reps) {
-  rand_samp <- as.matrix(sample_n(tucson_spp, 1, fac="latitude"))
+  rand_samp <- as.matrix(sample_n(tucson_spp2, 1, fac="latitude"))
   center_lat <- as.numeric(rand_samp[2])
   center_long <- as.numeric(rand_samp[3])
-  Tucson_sub <- filter(tucson_spp, 
+  Tucson_sub <- filter(tucson_spp2, 
                        ((center_lat-lat_dist)<latitude & latitude<(center_lat+lat_dist)))
   Tucson_sub <- filter(Tucson_sub, 
                        ((center_long-long_dist)<longitude & longitude<(center_long+long_dist)))
@@ -272,5 +393,5 @@ delta_plot <- ggplot(data = rich_df, mapping = aes(x = delta)) +
 delta_plot
 
 # And now we can save the plot :)
-ggsave(filename = "perm_plot_controlled_area_2.jpg", plot = delta_plot)
+ggsave(filename = "perm_plot_controlled_area_3.jpg", plot = delta_plot)
 
