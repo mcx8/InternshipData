@@ -1,0 +1,183 @@
+id,year_observed,month_observed,day_observed,time_observed_at,user_id,user_login,quality_grade,latitude,longitude,scientific_name,common_name,iconic_taxon_name,taxon_id,taxon_order_name,taxon_family_name,taxon_genus_name,taxon_species_name
+3063475,2016,4,30,2016-04-30 16:43:52 UTC,21718,klprudic,research,32.24829321,-110.9086262,Anthanassa texana,Texan Crescent,Insecta,132339,Lepidoptera,Nymphalidae,Anthanassa,Anthanassa texana
+4463682,2016,10,30,2016-10-30 18:41:01 UTC,284685,madkaplan,research,32.2484649,-110.9082729,Danaus gilippus,Queen,Insecta,51743,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+4533117,2016,11,11,2016-11-11 22:54:13 UTC,21718,klprudic,research,32.2485888,-110.9085879,Anthanassa texana,Texan Crescent,Insecta,132339,Lepidoptera,Nymphalidae,Anthanassa,Anthanassa texana
+4533122,2016,11,11,2016-11-11 22:56:30 UTC,21718,klprudic,research,32.2480845,-110.9084255,Danaus gilippus,Queen,Insecta,51743,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+4533125,2016,11,11,2016-11-11 22:57:52 UTC,21718,klprudic,research,32.248143,-110.9081519,Vanessa cardui,Painted Lady,Insecta,48548,Lepidoptera,Nymphalidae,Vanessa,Vanessa cardui
+5458652,2017,3,14,2017-03-14 16:24:00 UTC,6869,jbryant,research,32.248523,-110.908785,Anthanassa texana,Texan Crescent,Insecta,132339,Lepidoptera,Nymphalidae,Anthanassa,Anthanassa texana
+6912903,2017,4,2,,518008,ingas,needs_id,32.248523,-110.908785,Hesperiidae,Skippers,Insecta,47653,Lepidoptera,Hesperiidae,,
+6912962,2017,4,2,,518008,ingas,research,32.248523,-110.908785,Apis mellifera,Western Honey Bee,Insecta,47219,Hymenoptera,Apidae,Apis,Apis mellifera
+6912970,2017,4,2,,518008,ingas,needs_id,32.248523,-110.908785,Callophrys,Green Hairstreaks,Insecta,58554,Lepidoptera,Lycaenidae,Callophrys,
+6938289,2017,2,28,,518008,ingas,research,32.248523,-110.908785,Anthanassa texana,Texan Crescent,Insecta,132339,Lepidoptera,Nymphalidae,Anthanassa,Anthanassa texana
+6938303,2017,2,28,,518008,ingas,needs_id,32.248523,-110.908785,Hesperiidae,Skippers,Insecta,47653,Lepidoptera,Hesperiidae,,
+6938340,2017,2,28,,518008,ingas,research,32.248523,-110.908785,Pieris rapae,Cabbage White,Insecta,55626,Lepidoptera,Pieridae,Pieris,Pieris rapae
+6938376,2017,2,28,,518008,ingas,needs_id,32.248523,-110.908785,Pyrgini,"Checkered-Skippers, White-Skippers, and Allies",Insecta,320554,Lepidoptera,Hesperiidae,,
+6976558,2017,1,23,,518008,ingas,research,32.248523,-110.908785,Danaus gilippus,Queen,Insecta,51743,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+7018431,2017,7,10,2017-07-10 19:48:00 UTC,518008,ingas,research,32.248523,-110.908785,Vanessa cardui,Painted Lady,Insecta,48548,Lepidoptera,Nymphalidae,Vanessa,Vanessa cardui
+7032645,2016,8,14,,518008,ingas,needs_id,32.248523,-110.908785,Geometridae,Geometer Moths,Insecta,49530,Lepidoptera,Geometridae,,
+8084012,2016,10,30,2016-10-30 19:39:00 UTC,5158,lifespulse,research,32.248523,-110.908785,Euptoieta claudia,Variegated Fritillary,Insecta,68244,Lepidoptera,Nymphalidae,Euptoieta,Euptoieta claudia
+9512027,2018,1,17,2018-01-17 21:51:00 UTC,275891,psyllidhipster,needs_id,32.248523,-110.9086348,Nymphalidae,Brush-footed Butterflies,Insecta,47922,Lepidoptera,Nymphalidae,,
+9512028,2018,1,17,2018-01-17 21:33:00 UTC,275891,psyllidhipster,research,32.248523,-110.9086348,Anthanassa texana,Texan Crescent,Insecta,132339,Lepidoptera,Nymphalidae,Anthanassa,Anthanassa texana
+9512029,2018,1,17,2018-01-17 21:07:00 UTC,275891,psyllidhipster,needs_id,32.248523,-110.9086348,Cucullia,Hooded Owlets,Insecta,61971,Lepidoptera,Noctuidae,Cucullia,
+9512030,2018,1,17,2018-01-17 21:06:00 UTC,275891,psyllidhipster,needs_id,32.248523,-110.9086348,Rindgea ballandrata,,Insecta,367829,Lepidoptera,Geometridae,Rindgea,Rindgea ballandrata
+9512034,2018,1,17,2018-01-17 19:34:00 UTC,275891,psyllidhipster,research,32.248523,-110.9086348,Danaus gilippus,Queen,Insecta,51743,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+9816726,2018,2,10,2018-02-11 00:20:00 UTC,275891,psyllidhipster,research,32.2484867,-110.9086133,Xylocopa sonorina,Valley Carpenter Bee,Insecta,244216,Hymenoptera,Apidae,Xylocopa,Xylocopa sonorina
+9816727,2018,2,10,2018-02-11 00:19:00 UTC,275891,psyllidhipster,research,32.2484867,-110.9086133,Acromyrmex versicolor,Desert Leaf-cutter Ant,Insecta,50161,Hymenoptera,Formicidae,Acromyrmex,Acromyrmex versicolor
+9816731,2018,2,10,2018-02-10 23:47:00 UTC,275891,psyllidhipster,research,32.2484867,-110.9086133,Pieris rapae,Cabbage White,Insecta,55626,Lepidoptera,Pieridae,Pieris,Pieris rapae
+9816738,2018,2,10,2018-02-10 22:31:00 UTC,275891,psyllidhipster,needs_id,32.2484867,-110.9086133,Rindgea ballandrata,,Insecta,367829,Lepidoptera,Geometridae,Rindgea,Rindgea ballandrata
+9927637,2018,2,19,2018-02-19 22:56:00 UTC,275891,psyllidhipster,research,32.248523,-110.908785,Anthanassa texana,Texan Crescent,Insecta,132339,Lepidoptera,Nymphalidae,Anthanassa,Anthanassa texana
+9927639,2018,2,19,2018-02-19 22:42:00 UTC,275891,psyllidhipster,research,32.248523,-110.908785,Trichoplusia ni,Cabbage Looper Moth,Insecta,202789,Lepidoptera,Noctuidae,Trichoplusia,Trichoplusia ni
+9927640,2018,2,19,2018-02-19 22:43:00 UTC,275891,psyllidhipster,research,32.248523,-110.908785,Melipotis acontioides,Royal Poinciana Graphic,Insecta,224853,Lepidoptera,Erebidae,Melipotis,Melipotis acontioides
+9927641,2018,2,19,2018-02-19 22:42:00 UTC,275891,psyllidhipster,research,32.248523,-110.908785,Melipotis acontioides,Royal Poinciana Graphic,Insecta,224853,Lepidoptera,Erebidae,Melipotis,Melipotis acontioides
+9927642,2018,2,19,2018-02-19 22:42:00 UTC,275891,psyllidhipster,needs_id,32.248523,-110.908785,Psamatodes abydata,Dot-lined Angle,Insecta,228899,Lepidoptera,Geometridae,Psamatodes,Psamatodes abydata
+9927643,2018,2,19,2018-02-19 22:41:00 UTC,275891,psyllidhipster,needs_id,32.248523,-110.908785,Rindgea ballandrata,,Insecta,367829,Lepidoptera,Geometridae,Rindgea,Rindgea ballandrata
+9927644,2018,2,19,2018-02-19 22:41:00 UTC,275891,psyllidhipster,needs_id,32.248523,-110.908785,Cucullia,Hooded Owlets,Insecta,61971,Lepidoptera,Noctuidae,Cucullia,
+9927645,2018,2,19,2018-02-19 22:41:00 UTC,275891,psyllidhipster,research,32.248523,-110.908785,Asciodes gordialis,Bougainvillea Caterpillar Moth,Insecta,330480,Lepidoptera,Crambidae,Asciodes,Asciodes gordialis
+9927646,2018,2,19,2018-02-19 22:41:00 UTC,275891,psyllidhipster,research,32.248523,-110.908785,Melipotis acontioides,Royal Poinciana Graphic,Insecta,224853,Lepidoptera,Erebidae,Melipotis,Melipotis acontioides
+9927647,2018,2,19,2018-02-19 22:41:00 UTC,275891,psyllidhipster,research,32.248523,-110.908785,Autographa californica,Alfalfa Looper,Insecta,121823,Lepidoptera,Noctuidae,Autographa,Autographa californica
+9927648,2018,2,19,2018-02-19 22:41:00 UTC,275891,psyllidhipster,needs_id,32.248523,-110.908785,Cucullia,Hooded Owlets,Insecta,61971,Lepidoptera,Noctuidae,Cucullia,
+9927649,2018,2,19,2018-02-19 22:41:00 UTC,275891,psyllidhipster,research,32.248523,-110.908785,Sympistis perscripta,Scribbled Sallow,Insecta,232095,Lepidoptera,Noctuidae,Sympistis,Sympistis perscripta
+9962929,2018,2,22,2018-02-23 03:04:00 UTC,275891,psyllidhipster,needs_id,32.24841411,-110.9087635,Plusiinae,Plusiine Looper Moths,Insecta,122455,Lepidoptera,Noctuidae,,
+9962930,2018,2,22,2018-02-23 03:03:00 UTC,275891,psyllidhipster,research,32.24841411,-110.9087635,Protorthodes melanopis,,Insecta,346993,Lepidoptera,Noctuidae,Protorthodes,Protorthodes melanopis
+9962931,2018,2,22,2018-02-23 01:35:00 UTC,275891,psyllidhipster,research,32.24841411,-110.9087635,Michaelophorus indentatus,,Insecta,417747,Lepidoptera,Pterophoridae,Michaelophorus,Michaelophorus indentatus
+10051253,2018,3,1,2018-03-02 02:55:00 UTC,275891,psyllidhipster,research,32.2484867,-110.9086563,Anstenoptilia marmarodactyla,Sage Plume Moth,Insecta,129906,Lepidoptera,Pterophoridae,Anstenoptilia,Anstenoptilia marmarodactyla
+10051261,2018,3,1,2018-03-02 01:33:00 UTC,275891,psyllidhipster,needs_id,32.2484867,-110.9086563,Brachymyrmex,Rover Ants,Insecta,68941,Hymenoptera,Formicidae,Brachymyrmex,
+10051266,2018,3,1,2018-03-02 00:57:00 UTC,275891,psyllidhipster,research,32.2484867,-110.9086563,Heteranassa mima,,Insecta,363283,Lepidoptera,Erebidae,Heteranassa,Heteranassa mima
+10369677,2018,3,22,2018-03-23 02:31:00 UTC,275891,psyllidhipster,needs_id,32.248523,-110.908785,Gelechiidae,Twirler Moths,Insecta,55519,Lepidoptera,Gelechiidae,,
+10369680,2018,3,22,2018-03-23 02:20:00 UTC,275891,psyllidhipster,needs_id,32.248523,-110.908785,Pyralidae,Pyralid Snout Moths,Insecta,49683,Lepidoptera,Pyralidae,,
+10369685,2018,3,22,2018-03-23 01:16:00 UTC,275891,psyllidhipster,needs_id,32.248523,-110.908785,Heteranassa mima,,Insecta,363283,Lepidoptera,Erebidae,Heteranassa,Heteranassa mima
+11197708,2018,4,19,2018-04-20 00:20:00 UTC,275891,psyllidhipster,research,32.248523,-110.9086348,Papilio rumiko,Western Giant Swallowtail,Insecta,509627,Lepidoptera,Papilionidae,Papilio,Papilio rumiko
+11197709,2018,4,19,2018-04-19 23:44:00 UTC,275891,psyllidhipster,research,32.248523,-110.9086348,Asterocampa celtis,Hackberry Emperor,Insecta,68264,Lepidoptera,Nymphalidae,Asterocampa,Asterocampa celtis
+11304107,2018,4,20,2018-04-20 22:49:00 UTC,275891,psyllidhipster,research,32.248523,-110.908785,Anthanassa texana,Texan Crescent,Insecta,132339,Lepidoptera,Nymphalidae,Anthanassa,Anthanassa texana
+11304108,2018,4,20,2018-04-20 22:46:00 UTC,275891,psyllidhipster,research,32.248523,-110.908785,Danaus plexippus,Monarch,Insecta,48662,Lepidoptera,Nymphalidae,Danaus,Danaus plexippus
+11304109,2018,4,20,2018-04-20 22:38:00 UTC,275891,psyllidhipster,research,32.248523,-110.908785,Papilio rumiko,Western Giant Swallowtail,Insecta,509627,Lepidoptera,Papilionidae,Papilio,Papilio rumiko
+17583044,2018,10,16,2018-10-16 16:45:33 UTC,776547,irida73ceae,research,32.24860319,-110.9084425,Agraulis vanillae,Gulf Fritillary,Insecta,49150,Lepidoptera,Nymphalidae,Agraulis,Agraulis vanillae
+17687188,2018,10,19,2018-10-19 19:38:39 UTC,10813,nysforestqueen,needs_id,32.24799667,-110.9083633,Xylocopa,Large Carpenter Bees,Insecta,51111,Hymenoptera,Apidae,Xylocopa,
+19322074,2017,3,26,2017-03-26 23:30:00 UTC,1376373,tomdudones,research,32.248523,-110.908785,Anthanassa texana,Texan Crescent,Insecta,132339,Lepidoptera,Nymphalidae,Anthanassa,Anthanassa texana
+19812547,2019,1,21,2019-01-21 20:52:00 UTC,770371,janeyd,research,32.24817649,-110.9080909,Danaus gilippus,Queen,Insecta,51743,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+19812549,2019,1,21,2019-01-21 21:24:00 UTC,770371,janeyd,research,32.24800647,-110.907989,Libytheana carinenta,American Snout,Insecta,58561,Lepidoptera,Nymphalidae,Libytheana,Libytheana carinenta
+19812550,2019,1,21,2019-01-21 21:29:00 UTC,770371,janeyd,research,32.248173,-110.9081258,Abaeis nicippe,Sleepy Orange,Insecta,81727,Lepidoptera,Pieridae,Abaeis,Abaeis nicippe
+20862534,2019,3,1,2019-03-01 22:21:24 UTC,237362,desertdutchman,research,32.24825167,-110.9083233,Danaus gilippus,Queen,Insecta,51743,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+20862551,2019,3,1,2019-03-01 22:24:58 UTC,237362,desertdutchman,research,32.24818167,-110.9086067,Danaus plexippus,Monarch,Insecta,48662,Lepidoptera,Nymphalidae,Danaus,Danaus plexippus
+21712813,2019,3,25,2019-03-25 18:43:00 UTC,44738,carianne,research,32.24825797,-110.909307,Anthanassa texana,Texan Crescent,Insecta,132339,Lepidoptera,Nymphalidae,Anthanassa,Anthanassa texana
+25948270,2019,5,11,2019-05-11 23:20:00 UTC,306180,tomdriscoll,research,32.24853173,-110.9087849,Anthanassa texana,Texan Crescent,Insecta,132339,Lepidoptera,Nymphalidae,Anthanassa,Anthanassa texana
+27266361,2019,6,8,2019-06-08 19:05:51 UTC,1128542,amrahne,research,32.24815021,-110.9092912,Pieris rapae,Cabbage White,Insecta,55626,Lepidoptera,Pieridae,Pieris,Pieris rapae
+27566669,2019,6,8,2019-06-08 19:28:01 UTC,1128542,amrahne,research,32.2484699,-110.9090747,Danaus plexippus,Monarch,Insecta,48662,Lepidoptera,Nymphalidae,Danaus,Danaus plexippus
+29550163,2019,7,25,2019-07-24 23:45:00 UTC,1790947,miguelenriquez989,research,32.24840025,-110.9088889,Danaus plexippus,Monarch,Insecta,48662,Lepidoptera,Nymphalidae,Danaus,Danaus plexippus
+30066531,2019,8,2,2019-08-02 17:17:00 UTC,442615,roomthily,needs_id,32.24829716,-110.9086875,Xylocopa,Large Carpenter Bees,Insecta,51111,Hymenoptera,Apidae,Xylocopa,
+30066827,2019,8,2,2019-08-02 17:33:00 UTC,442615,roomthily,research,32.2484075,-110.9089123,Vanessa cardui,Painted Lady,Insecta,48548,Lepidoptera,Nymphalidae,Vanessa,Vanessa cardui
+30066829,2019,8,2,2019-08-02 17:37:00 UTC,442615,roomthily,research,32.2484075,-110.9089123,Danaus plexippus,Monarch,Insecta,48662,Lepidoptera,Nymphalidae,Danaus,Danaus plexippus
+30066831,2019,8,2,2019-08-02 17:56:00 UTC,442615,roomthily,needs_id,32.24808088,-110.9089083,Megachile,"Leafcutter, Mortar, and Resin Bees",Insecta,52784,Hymenoptera,Megachilidae,Megachile,
+30066955,2019,8,2,2019-08-02 18:49:00 UTC,442615,roomthily,needs_id,32.24815273,-110.9087561,Lepidoptera,Butterflies and Moths,Insecta,47157,Lepidoptera,,,
+30067026,2019,8,2,2019-08-02 19:02:00 UTC,442615,roomthily,needs_id,32.24830698,-110.9082626,Calephelis nemesis,Fatal Metalmark,Insecta,129363,Lepidoptera,Riodinidae,Calephelis,Calephelis nemesis
+30067028,2019,8,2,2019-08-02 19:04:00 UTC,442615,roomthily,research,32.24830698,-110.9082626,Danaus gilippus,Queen,Insecta,51743,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+30067120,2019,8,2,2019-08-02 19:05:00 UTC,442615,roomthily,research,32.2482505,-110.9083114,Hylephila phyleus,Fiery Skipper,Insecta,50340,Lepidoptera,Hesperiidae,Hylephila,Hylephila phyleus
+30067121,2019,8,2,2019-08-02 19:11:00 UTC,442615,roomthily,research,32.2482505,-110.9083114,Strymon melinus,Gray Hairstreak,Insecta,50931,Lepidoptera,Lycaenidae,Strymon,Strymon melinus
+30067122,2019,8,2,2019-08-02 19:14:00 UTC,442615,roomthily,research,32.2482505,-110.9083114,Copaeodes aurantiaca,Orange Skipperling,Insecta,129415,Lepidoptera,Hesperiidae,Copaeodes,Copaeodes aurantiaca
+30067124,2019,8,2,2019-08-02 19:17:00 UTC,442615,roomthily,research,32.2482505,-110.9083114,Leptotes marina,Marine Blue,Insecta,59152,Lepidoptera,Lycaenidae,Leptotes,Leptotes marina
+30067125,2019,8,2,2019-08-02 19:15:00 UTC,442615,roomthily,needs_id,32.2482505,-110.9083114,Eutricharaea,,Insecta,415012,Hymenoptera,Megachilidae,Megachile,
+30084862,2019,7,25,2019-07-24 23:38:00 UTC,1790947,miguelenriquez989,research,32.24831591,-110.9091396,Papilio rumiko,Western Giant Swallowtail,Insecta,509627,Lepidoptera,Papilionidae,Papilio,Papilio rumiko
+30084968,2019,7,25,2019-07-24 23:37:00 UTC,1790947,miguelenriquez989,research,32.24837036,-110.9090859,Vanessa cardui,Painted Lady,Insecta,48548,Lepidoptera,Nymphalidae,Vanessa,Vanessa cardui
+30199550,2019,8,4,2019-08-04 15:50:00 UTC,442615,roomthily,research,32.24829452,-110.9085971,Papilio rumiko,Western Giant Swallowtail,Insecta,509627,Lepidoptera,Papilionidae,Papilio,Papilio rumiko
+30199552,2019,8,4,2019-08-04 15:56:00 UTC,442615,roomthily,research,32.24829452,-110.9085971,Ministrymon leda,Leda Ministreak,Insecta,225163,Lepidoptera,Lycaenidae,Ministrymon,Ministrymon leda
+30199670,2019,8,4,2019-08-04 16:13:00 UTC,442615,roomthily,needs_id,32.24806087,-110.9078059,Svastra duplocincta,Barrel Cactus Longhorn,Insecta,309070,Hymenoptera,Apidae,Svastra,Svastra duplocincta
+30199944,2019,8,4,2019-08-04 16:25:00 UTC,442615,roomthily,needs_id,32.24851456,-110.9078515,Uresiphita reversalis,Genista Broom Moth,Insecta,121716,Lepidoptera,Crambidae,Uresiphita,Uresiphita reversalis
+30199945,2019,8,4,2019-08-04 16:19:00 UTC,442615,roomthily,needs_id,32.24851456,-110.9078515,Colias,Clouded Yellows,Insecta,58533,Lepidoptera,Pieridae,Colias,
+30199951,2019,8,4,2019-08-04 17:02:00 UTC,442615,roomthily,research,32.24851456,-110.9078515,Anthanassa texana,Texan Crescent,Insecta,132339,Lepidoptera,Nymphalidae,Anthanassa,Anthanassa texana
+30199955,2019,8,4,2019-08-04 16:52:00 UTC,442615,roomthily,research,32.24851456,-110.9078515,Hemiargus ceraunus,Ceraunus Blue,Insecta,69940,Lepidoptera,Lycaenidae,Hemiargus,Hemiargus ceraunus
+31077935,2019,7,25,2019-07-25 23:21:00 UTC,1148121,logancrees,research,32.248523,-110.908785,Danaus gilippus,Queen,Insecta,51743,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+31262160,2019,8,21,2019-08-21 15:25:00 UTC,442615,roomthily,research,32.2483943,-110.9090808,Strymon melinus,Gray Hairstreak,Insecta,50931,Lepidoptera,Lycaenidae,Strymon,Strymon melinus
+31262161,2019,8,21,2019-08-21 15:26:00 UTC,442615,roomthily,needs_id,32.2483943,-110.9090808,Anthophora californica,California Digger Bee,Insecta,308726,Hymenoptera,Apidae,Anthophora,Anthophora californica
+31262163,2019,8,21,2019-08-21 15:27:00 UTC,442615,roomthily,research,32.2483943,-110.9090808,Phoebis sennae,Cloudless Sulphur,Insecta,48550,Lepidoptera,Pieridae,Phoebis,Phoebis sennae
+31262165,2019,8,21,2019-08-21 15:31:00 UTC,442615,roomthily,research,32.2483943,-110.9090808,Danaus plexippus,Monarch,Insecta,48662,Lepidoptera,Nymphalidae,Danaus,Danaus plexippus
+31262166,2019,8,21,2019-08-21 15:55:00 UTC,442615,roomthily,research,32.24802854,-110.9082938,Xylocopa californica arizonensis,Arizona Carpenter Bee,Insecta,371461,Hymenoptera,Apidae,Xylocopa,Xylocopa californica
+31262168,2019,8,21,2019-08-21 15:55:00 UTC,442615,roomthily,research,32.24841176,-110.908054,Hemiargus ceraunus,Ceraunus Blue,Insecta,69940,Lepidoptera,Lycaenidae,Hemiargus,Hemiargus ceraunus
+31262169,2019,8,21,2019-08-21 16:46:00 UTC,442615,roomthily,research,32.24841176,-110.908054,Agraulis vanillae,Gulf Fritillary,Insecta,49150,Lepidoptera,Nymphalidae,Agraulis,Agraulis vanillae
+31262172,2019,8,21,2019-08-21 17:25:00 UTC,442615,roomthily,research,32.24841176,-110.908054,Anthophora californica,California Digger Bee,Insecta,308726,Hymenoptera,Apidae,Anthophora,Anthophora californica
+31262180,2019,8,21,2019-08-21 18:03:00 UTC,442615,roomthily,research,32.2481042,-110.9089785,Papilio pallas bajaensis,,Insecta,509643,Lepidoptera,Papilionidae,Papilio,Papilio pallas
+31647325,2018,10,7,2018-10-07 19:31:00 UTC,518008,ingas,needs_id,32.248523,-110.908785,Systasea zampa,Arizona Powdered-Skipper,Insecta,204771,Lepidoptera,Hesperiidae,Systasea,Systasea zampa
+32564737,2019,9,7,,2212877,dexinren,research,32.2485408,-110.9087849,Brachymyrmex patagonicus,Dark Rover Ant,Insecta,356419,Hymenoptera,Formicidae,Brachymyrmex,Brachymyrmex patagonicus
+33154671,2019,9,21,2019-09-21 17:11:25 UTC,2271658,kartan,research,32.24858589,-110.9086866,Danaus gilippus,Queen,Insecta,51743,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+34221677,2019,10,11,2019-10-11 18:02:03 UTC,474634,scottedmunds,research,32.24833667,-110.908325,Danaus plexippus,Monarch,Insecta,48662,Lepidoptera,Nymphalidae,Danaus,Danaus plexippus
+35419740,2019,11,7,2019-11-07 19:39:52 UTC,2007045,nbjersey,research,32.24833667,-110.9082717,Danaus gilippus,Queen,Insecta,51743,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+35425127,2019,11,7,2019-11-07 22:11:02 UTC,2007045,nbjersey,research,32.24834167,-110.908355,Anthanassa texana,Texan Crescent,Insecta,132339,Lepidoptera,Nymphalidae,Anthanassa,Anthanassa texana
+35425147,2019,11,7,2019-11-07 22:10:55 UTC,2007045,nbjersey,research,32.24832167,-110.9083417,Danaus gilippus,Queen,Insecta,51743,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+35425159,2019,11,7,2019-11-07 22:10:50 UTC,2007045,nbjersey,research,32.24831667,-110.9083417,Vanessa cardui,Painted Lady,Insecta,48548,Lepidoptera,Nymphalidae,Vanessa,Vanessa cardui
+35459574,2019,11,8,2019-11-08 19:13:08 UTC,1424273,paulswitzer,research,32.24838833,-110.9084333,Anthanassa texana,Texan Crescent,Insecta,132339,Lepidoptera,Nymphalidae,Anthanassa,Anthanassa texana
+35459602,2019,11,8,2019-11-08 19:06:41 UTC,1424273,paulswitzer,research,32.24831333,-110.9082633,Danaus gilippus,Queen,Insecta,51743,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+35466804,2019,11,8,2019-11-08 22:35:07 UTC,1424273,paulswitzer,needs_id,32.24801667,-110.9095217,Papilio polyxenes,Black Swallowtail,Insecta,58523,Lepidoptera,Papilionidae,Papilio,Papilio polyxenes
+35467072,2019,11,8,2019-11-08 19:06:08 UTC,1424273,paulswitzer,research,32.248325,-110.9082333,Danaus plexippus,Monarch,Insecta,48662,Lepidoptera,Nymphalidae,Danaus,Danaus plexippus
+35477332,2019,11,8,2019-11-08 18:26:57 UTC,1310523,blancadog,research,32.2484782,-110.9085669,Danaus gilippus,Queen,Insecta,51743,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+35477391,2019,11,8,2019-11-08 18:59:06 UTC,1310523,blancadog,research,32.24836747,-110.9085661,Danaus gilippus,Queen,Insecta,51743,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+35477479,2019,11,8,2019-11-08 19:09:52 UTC,1310523,blancadog,research,32.24838684,-110.9085466,Vanessa cardui,Painted Lady,Insecta,48548,Lepidoptera,Nymphalidae,Vanessa,Vanessa cardui
+35477611,2019,11,8,2019-11-08 19:10:47 UTC,1310523,blancadog,research,32.24839819,-110.908597,Anthanassa texana,Texan Crescent,Insecta,132339,Lepidoptera,Nymphalidae,Anthanassa,Anthanassa texana
+35477674,2019,11,8,2019-11-08 20:51:30 UTC,1310523,blancadog,needs_id,32.24837638,-110.9085936,Crambidae,Crambid Snout Moths,Insecta,52002,Lepidoptera,Crambidae,,
+35478046,2019,11,8,2019-11-08 19:10:07 UTC,1310523,blancadog,research,32.24832989,-110.9086117,Danaus plexippus,Monarch,Insecta,48662,Lepidoptera,Nymphalidae,Danaus,Danaus plexippus
+35478190,2019,11,8,2019-11-08 22:10:43 UTC,2025917,jewelwing66,research,32.24825333,-110.9083033,Hylephila phyleus,Fiery Skipper,Insecta,50340,Lepidoptera,Hesperiidae,Hylephila,Hylephila phyleus
+35663521,2019,11,8,2019-11-08 18:44:12 UTC,1424273,paulswitzer,research,32.24809667,-110.9077833,Asterocampa leilia,Empress Leilia,Insecta,148793,Lepidoptera,Nymphalidae,Asterocampa,Asterocampa leilia
+36026671,2019,11,8,2019-11-08 19:17:00 UTC,1424273,paulswitzer,research,32.248473,-110.9090323,Papilio rumiko,Western Giant Swallowtail,Insecta,509627,Lepidoptera,Papilionidae,Papilio,Papilio rumiko
+36226239,2019,11,30,2019-11-30 19:40:21 UTC,4358,ronsavage,research,32.24828176,-110.9083398,Danaus gilippus,Queen,Insecta,51743,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+36240213,2015,8,6,,518008,ingas,needs_id,32.248523,-110.908785,Penstemonia,,Insecta,62711,Lepidoptera,Sesiidae,Penstemonia,
+36274315,2019,12,1,2019-12-01 20:55:00 UTC,442615,roomthily,research,32.24840504,-110.9086884,Libytheana carinenta,American Snout,Insecta,58561,Lepidoptera,Nymphalidae,Libytheana,Libytheana carinenta
+36274316,2019,12,1,2019-12-01 21:00:00 UTC,442615,roomthily,needs_id,32.24840504,-110.9086884,Augochlorella,,Insecta,82526,Hymenoptera,Halictidae,Augochlorella,
+36274319,2019,12,1,2019-12-01 21:00:00 UTC,442615,roomthily,research,32.24840504,-110.9086884,Danaus gilippus,Queen,Insecta,51743,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+36274321,2019,12,1,2019-12-01 21:03:00 UTC,442615,roomthily,research,32.24840504,-110.9086884,Danaus plexippus,Monarch,Insecta,48662,Lepidoptera,Nymphalidae,Danaus,Danaus plexippus
+36274323,2019,12,1,2019-12-01 21:04:00 UTC,442615,roomthily,research,32.24840504,-110.9086884,Anthanassa texana,Texan Crescent,Insecta,132339,Lepidoptera,Nymphalidae,Anthanassa,Anthanassa texana
+36274324,2019,12,1,2019-12-01 21:06:00 UTC,442615,roomthily,research,32.24840504,-110.9086884,Agraulis vanillae,Gulf Fritillary,Insecta,49150,Lepidoptera,Nymphalidae,Agraulis,Agraulis vanillae
+36274326,2019,12,1,2019-12-01 21:18:00 UTC,442615,roomthily,research,32.24840504,-110.9086884,Hylephila phyleus,Fiery Skipper,Insecta,50340,Lepidoptera,Hesperiidae,Hylephila,Hylephila phyleus
+36274330,2019,12,1,2019-12-01 21:28:00 UTC,442615,roomthily,research,32.24840504,-110.9086884,Leptotes marina,Marine Blue,Insecta,59152,Lepidoptera,Lycaenidae,Leptotes,Leptotes marina
+36274339,2019,12,1,2019-12-01 21:48:00 UTC,442615,roomthily,needs_id,32.24840504,-110.9086884,Dialictus,Metallic Sweat Bees,Insecta,126545,Hymenoptera,Halictidae,Lasioglossum,
+36274343,2019,12,1,2019-12-01 22:07:00 UTC,442615,roomthily,needs_id,32.24840504,-110.9086884,Halictinae,,Insecta,134106,Hymenoptera,Halictidae,,
+36595590,2019,12,12,2019-12-12 19:52:30 UTC,1424273,paulswitzer,research,32.24862833,-110.9088883,Apis mellifera,Western Honey Bee,Insecta,47219,Hymenoptera,Apidae,Apis,Apis mellifera
+36660118,2019,12,14,2019-12-14 16:58:21 UTC,1424273,paulswitzer,research,32.24865833,-110.90892,Danaus plexippus,Monarch,Insecta,48662,Lepidoptera,Nymphalidae,Danaus,Danaus plexippus
+36660139,2019,12,14,2019-12-14 17:16:52 UTC,1424273,paulswitzer,research,32.24818,-110.9081333,Danaus gilippus,Queen,Insecta,51743,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+36660170,2019,12,14,2019-12-14 18:09:34 UTC,1424273,paulswitzer,research,32.248375,-110.908005,Agraulis vanillae,Gulf Fritillary,Insecta,49150,Lepidoptera,Nymphalidae,Agraulis,Agraulis vanillae
+38517207,2020,2,10,2020-02-10 17:22:00 UTC,442615,roomthily,research,32.24820541,-110.9086777,Vanessa cardui,Painted Lady,Insecta,48548,Lepidoptera,Nymphalidae,Vanessa,Vanessa cardui
+38517208,2020,2,10,2020-02-10 17:31:00 UTC,442615,roomthily,research,32.24820541,-110.9086777,Agraulis vanillae,Gulf Fritillary,Insecta,49150,Lepidoptera,Nymphalidae,Agraulis,Agraulis vanillae
+38517209,2020,2,10,2020-02-10 17:32:00 UTC,442615,roomthily,research,32.24820541,-110.9086777,Vanessa cardui,Painted Lady,Insecta,48548,Lepidoptera,Nymphalidae,Vanessa,Vanessa cardui
+38517214,2020,2,10,2020-02-10 17:51:00 UTC,442615,roomthily,research,32.24820541,-110.9086777,Danaus plexippus,Monarch,Insecta,48662,Lepidoptera,Nymphalidae,Danaus,Danaus plexippus
+38517216,2020,2,10,2020-02-10 18:30:00 UTC,442615,roomthily,research,32.24820541,-110.9086777,Strymon melinus,Gray Hairstreak,Insecta,50931,Lepidoptera,Lycaenidae,Strymon,Strymon melinus
+38517217,2020,2,10,2020-02-10 18:36:00 UTC,442615,roomthily,research,32.24820541,-110.9086777,Xylocopa sonorina,Valley Carpenter Bee,Insecta,244216,Hymenoptera,Apidae,Xylocopa,Xylocopa sonorina
+44609942,2020,2,29,2020-02-29 20:20:54 UTC,1128542,amrahne,research,32.24831199,-110.9091134,Danaus plexippus,Monarch,Insecta,48662,Lepidoptera,Nymphalidae,Danaus,Danaus plexippus
+54477143,2020,7,22,,3089922,riverkestrel,research,32.248523,-110.908785,Agraulis vanillae,Gulf Fritillary,Insecta,49150,Lepidoptera,Nymphalidae,Agraulis,Agraulis vanillae
+54477146,2020,7,22,,3089922,riverkestrel,research,32.248523,-110.908785,Hylephila phyleus,Fiery Skipper,Insecta,50340,Lepidoptera,Hesperiidae,Hylephila,Hylephila phyleus
+56807779,2020,8,15,2020-08-15 07:36:00 UTC,777339,transplanter_,research,32.248523,-110.908785,Battus philenor,Pipevine Swallowtail,Insecta,49972,Lepidoptera,Papilionidae,Battus,Battus philenor
+56807928,2020,8,14,2020-08-15 06:42:00 UTC,777339,transplanter_,needs_id,32.248523,-110.908785,Melittia,,Insecta,133347,Lepidoptera,Sesiidae,Melittia,
+56810372,2020,8,15,2020-08-15 07:18:00 UTC,777339,transplanter_,research,32.248523,-110.908785,Agraulis vanillae,Gulf Fritillary,Insecta,49150,Lepidoptera,Nymphalidae,Agraulis,Agraulis vanillae
+56810373,2020,8,15,2020-08-15 07:20:00 UTC,777339,transplanter_,needs_id,32.248523,-110.908785,Calephelis nemesis,Fatal Metalmark,Insecta,129363,Lepidoptera,Riodinidae,Calephelis,Calephelis nemesis
+59473325,2020,9,13,2020-09-13 17:37:48 UTC,777339,transplanter_,research,32.2486358,-110.9084251,Hemiargus ceraunus,Ceraunus Blue,Insecta,69940,Lepidoptera,Lycaenidae,Hemiargus,Hemiargus ceraunus
+60653201,2020,9,24,2020-09-24 19:14:58 UTC,777339,transplanter_,needs_id,32.2483512,-110.9080855,Hylephila phyleus,Fiery Skipper,Insecta,50340,Lepidoptera,Hesperiidae,Hylephila,Hylephila phyleus
+60656846,2020,9,24,2020-09-24 19:17:36 UTC,777339,transplanter_,needs_id,32.24790507,-110.9077586,Hesperiinae,Grass Skippers,Insecta,122493,Lepidoptera,Hesperiidae,,
+60656864,2020,9,24,2020-09-24 20:03:24 UTC,777339,transplanter_,needs_id,32.2482316,-110.9081899,Erynnis,Duskywings,Insecta,47652,Lepidoptera,Hesperiidae,Erynnis,
+62921957,2020,10,18,2020-10-18 18:23:27 UTC,777339,transplanter_,research,32.2480583,-110.9089809,Danaus plexippus,Monarch,Insecta,48662,Lepidoptera,Nymphalidae,Danaus,Danaus plexippus
+64680602,2020,11,11,2020-11-11 18:25:36 UTC,1979554,atlasbeetle,research,32.2481101,-110.9083256,Danaus gilippus,Queen,Insecta,51743,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+65559767,2020,11,24,2020-11-24 21:27:06 UTC,1777239,owenbal,research,32.24834667,-110.9083783,Danaus gilippus,Queen,Insecta,51743,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+66375087,2020,12,9,2020-12-09 21:20:50 UTC,1424273,paulswitzer,research,32.24828333,-110.908325,Danaus gilippus,Queen,Insecta,51743,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+66375107,2020,12,9,2020-12-09 21:18:56 UTC,1424273,paulswitzer,research,32.248295,-110.908295,Danaus gilippus,Queen,Insecta,51743,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+66375110,2020,12,9,2020-12-09 21:09:03 UTC,1424273,paulswitzer,research,32.24868,-110.908745,Apis mellifera,Western Honey Bee,Insecta,47219,Hymenoptera,Apidae,Apis,Apis mellifera
+66385988,2020,12,9,2020-12-09 22:01:33 UTC,2025917,jewelwing66,research,32.24816167,-110.9081717,Calephelis nemesis,Fatal Metalmark,Insecta,129363,Lepidoptera,Riodinidae,Calephelis,Calephelis nemesis
+66409024,2020,12,9,2020-12-09 21:13:02 UTC,2025917,jewelwing66,research,32.24829167,-110.90825,Danaus gilippus,Queen,Insecta,51743,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+66409201,2020,12,9,2020-12-09 21:14:02 UTC,2025917,jewelwing66,research,32.248295,-110.9083033,Apis mellifera,Western Honey Bee,Insecta,47219,Hymenoptera,Apidae,Apis,Apis mellifera
+66409292,2020,12,9,2020-12-09 21:59:40 UTC,2025917,jewelwing66,research,32.24820833,-110.90808,Danaus plexippus,Monarch,Insecta,48662,Lepidoptera,Nymphalidae,Danaus,Danaus plexippus
+67548373,2020,12,9,2020-12-09 23:03:00 UTC,1424273,paulswitzer,research,32.24824001,-110.9080246,Danaus plexippus,Monarch,Insecta,48662,Lepidoptera,Nymphalidae,Danaus,Danaus plexippus
+67548374,2020,12,9,2020-12-09 23:02:00 UTC,1424273,paulswitzer,research,32.24824001,-110.9080246,Calephelis nemesis,Fatal Metalmark,Insecta,129363,Lepidoptera,Riodinidae,Calephelis,Calephelis nemesis
+72646704,2021,3,31,2021-03-31 17:37:22 UTC,2025917,jewelwing66,research,32.24826333,-110.9082717,Andrena prunorum,Prunus Miner,Insecta,57667,Hymenoptera,Andrenidae,Andrena,Andrena prunorum
+72648233,2021,3,31,2021-03-31 17:40:26 UTC,2025917,jewelwing66,research,32.24826167,-110.9082333,Strymon melinus,Gray Hairstreak,Insecta,50931,Lepidoptera,Lycaenidae,Strymon,Strymon melinus
+72648277,2021,3,31,2021-03-31 17:35:34 UTC,2025917,jewelwing66,research,32.24828667,-110.90825,Leptotes marina,Marine Blue,Insecta,59152,Lepidoptera,Lycaenidae,Leptotes,Leptotes marina
+72648351,2021,3,31,2021-03-31 17:33:50 UTC,2025917,jewelwing66,research,32.248255,-110.9083117,Danaus gilippus,Queen,Insecta,51743,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+73087546,2021,3,26,2021-03-26 16:15:04 UTC,1424273,paulswitzer,needs_id,32.24873667,-110.9088833,Leptotes marina,Marine Blue,Insecta,59152,Lepidoptera,Lycaenidae,Leptotes,Leptotes marina
+73087593,2021,3,26,2021-03-26 16:41:04 UTC,1424273,paulswitzer,needs_id,32.24831333,-110.9079217,Leptotes marina,Marine Blue,Insecta,59152,Lepidoptera,Lycaenidae,Leptotes,Leptotes marina
+73087612,2021,3,26,2021-03-26 16:46:45 UTC,1424273,paulswitzer,research,32.24832833,-110.907905,Danaus gilippus,Queen,Insecta,51743,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+73087759,2021,3,26,2021-03-26 17:35:14 UTC,1424273,paulswitzer,research,32.24833667,-110.9083417,Asterocampa leilia,Empress Leilia,Insecta,148793,Lepidoptera,Nymphalidae,Asterocampa,Asterocampa leilia
+73230635,2021,3,26,2021-03-26 17:47:55 UTC,1424273,paulswitzer,research,32.24822,-110.9085383,Danaus plexippus,Monarch,Insecta,48662,Lepidoptera,Nymphalidae,Danaus,Danaus plexippus
+73249602,2021,3,29,2021-03-29 17:11:34 UTC,1424273,paulswitzer,research,32.24826167,-110.9082333,Apis mellifera,Western Honey Bee,Insecta,47219,Hymenoptera,Apidae,Apis,Apis mellifera
+73249626,2021,3,29,2021-03-29 17:12:13 UTC,1424273,paulswitzer,research,32.24828333,-110.9082033,Danaus gilippus,Queen,Insecta,51743,Lepidoptera,Nymphalidae,Danaus,Danaus gilippus
+73249871,2021,3,29,2021-03-29 17:53:12 UTC,1424273,paulswitzer,needs_id,32.248725,-110.908875,Lepidoptera,Butterflies and Moths,Insecta,47157,Lepidoptera,,,
+73250231,2021,3,31,2021-03-31 16:39:19 UTC,1424273,paulswitzer,research,32.248255,-110.90822,Strymon melinus,Gray Hairstreak,Insecta,50931,Lepidoptera,Lycaenidae,Strymon,Strymon melinus
+73250250,2021,3,31,2021-03-31 16:49:11 UTC,1424273,paulswitzer,research,32.248375,-110.9091333,Leptotes marina,Marine Blue,Insecta,59152,Lepidoptera,Lycaenidae,Leptotes,Leptotes marina
+80364461,2021,5,23,2021-05-23 17:32:37 UTC,2214996,swindsor,needs_id,32.24827497,-110.908252,Leptotes marina,Marine Blue,Insecta,59152,Lepidoptera,Lycaenidae,Leptotes,Leptotes marina
+80364565,2021,5,23,2021-05-23 17:33:11 UTC,2214996,swindsor,research,32.24832332,-110.9082581,Agraulis vanillae,Gulf Fritillary,Insecta,49150,Lepidoptera,Nymphalidae,Agraulis,Agraulis vanillae
+80365289,2021,5,23,2021-05-23 17:54:57 UTC,2214996,swindsor,research,32.248654,-110.908094,Apis mellifera,Western Honey Bee,Insecta,47219,Hymenoptera,Apidae,Apis,Apis mellifera
+80365964,2021,5,23,2021-05-23 18:21:10 UTC,2214996,swindsor,needs_id,32.248049,-110.909267,Halictidae,Sweat Bees,Insecta,49707,Hymenoptera,Halictidae,,
+80366037,2021,5,23,2021-05-23 18:37:21 UTC,2214996,swindsor,research,32.24831997,-110.908267,Danaus plexippus,Monarch,Insecta,48662,Lepidoptera,Nymphalidae,Danaus,Danaus plexippus
+80669767,2021,5,28,2021-05-28 19:00:32 UTC,1424273,paulswitzer,research,32.24821333,-110.9082033,Leptotes marina,Marine Blue,Insecta,59152,Lepidoptera,Lycaenidae,Leptotes,Leptotes marina
