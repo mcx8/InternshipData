@@ -23,7 +23,8 @@ Tucson_MARCH <- read.csv(file = "HymLep_only_Data/Tucson_MARCH.csv")
 
 # ggmap requires an API key, so we need to get one first to use it here
 # Run this function to register the API key so we can use Google Maps
-register_google (key = "AIzaSyC-NAAi0kRxNvpUqOdAwF1k6cgYtvKuEeQ")
+register_google (key = "key")
+
 
 # First, get the base map
 # The center is (longitude, latitude)
